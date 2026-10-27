@@ -1,0 +1,29 @@
+{
+  "generator": "generate_data.py",
+  "seed": 20261022,
+  "as_of_date": "2026-10-22",
+  "loans_requested": 100,
+  "table_row_counts": {
+    "Customer": 100,
+    "Account": 100,
+    "Loan": 100,
+    "Installment": 300,
+    "DelinquencySnapshot": 100,
+    "ContactPreference": 100,
+    "ContactAttempt": 74,
+    "PromiseToPay": 11,
+    "Payment": 112,
+    "CollectionCase": 100
+  },
+  "ground_truth_rows": 5,
+  "external_data_used": false,
+  "source_manifest": [
+    {
+      "source": "synthetic_generator",
+      "url": null,
+      "license": "not applicable; wholly synthetic",
+      "retrieval_date": null,
+      "transformations": "seeded generation; deterministic derived fields"
+    }
+  ]
+}

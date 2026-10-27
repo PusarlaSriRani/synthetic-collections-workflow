@@ -1,0 +1,101 @@
+[
+  {
+    "promise_id": "PTP-2026-000001",
+    "case_id": "COL-2026-000002",
+    "contact_attempt_id": "CTP-COL-2026-000002-002",
+    "promised_amount": 124503.14,
+    "promise_date": "2026-10-22",
+    "due_date": "2026-10-31",
+    "promise_status": "pending"
+  },
+  {
+    "promise_id": "PTP-2026-000002",
+    "case_id": "COL-2026-000015",
+    "contact_attempt_id": "CTP-COL-2026-000015-001",
+    "promised_amount": 18267.75,
+    "promise_date": "2026-10-29",
+    "due_date": "2026-10-30",
+    "promise_status": "pending"
+  },
+  {
+    "promise_id": "PTP-2026-000003",
+    "case_id": "COL-2026-000036",
+    "contact_attempt_id": "CTP-COL-2026-000036-001",
+    "promised_amount": 7256.4,
+    "promise_date": "2026-10-03",
+    "due_date": "2026-10-15",
+    "promise_status": "broken"
+  },
+  {
+    "promise_id": "PTP-2026-000004",
+    "case_id": "COL-2026-000041",
+    "contact_attempt_id": "CTP-COL-2026-000041-002",
+    "promised_amount": 40530.06,
+    "promise_date": "2026-10-30",
+    "due_date": "2026-11-01",
+    "promise_status": "pending"
+  },
+  {
+    "promise_id": "PTP-2026-000005",
+    "case_id": "COL-2026-000045",
+    "contact_attempt_id": "CTP-COL-2026-000045-001",
+    "promised_amount": 44649.28,
+    "promise_date": "2026-10-15",
+    "due_date": "2026-10-27",
+    "promise_status": "pending"
+  },
+  {
+    "promise_id": "PTP-2026-000006",
+    "case_id": "COL-2026-000046",
+    "contact_attempt_id": "CTP-COL-2026-000046-001",
+    "promised_amount": 83599.3,
+    "promise_date": "2026-10-09",
+    "due_date": "2026-10-11",
+    "promise_status": "broken"
+  },
+  {
+    "promise_id": "PTP-2026-000007",
+    "case_id": "COL-2026-000048",
+    "contact_attempt_id": "CTP-COL-2026-000048-001",
+    "promised_amount": 12606.95,
+    "promise_date": "2026-10-15",
+    "due_date": "2026-10-21",
+    "promise_status": "kept"
+  },
+  {
+    "promise_id": "PTP-2026-000008",
+    "case_id": "COL-2026-000073",
+    "contact_attempt_id": "CTP-COL-2026-000073-001",
+    "promised_amount": 75131.61,
+    "promise_date": "2026-10-02",
+    "due_date": "2026-10-03",
+    "promise_status": "broken"
+  },
+  {
+    "promise_id": "PTP-2026-000009",
+    "case_id": "COL-2026-000077",
+    "contact_attempt_id": "CTP-COL-2026-000077-001",
+    "promised_amount": 88955.42,
+    "promise_date": "2026-10-11",
+    "due_date": "2026-10-19",
+    "promise_status": "broken"
+  },
+  {
+    "promise_id": "PTP-2026-000010",
+    "case_id": "COL-2026-000092",
+    "contact_attempt_id": "CTP-COL-2026-000092-001",
+    "promised_amount": 20408.49,
+    "promise_date": "2026-10-11",
+    "due_date": "2026-10-12",
+    "promise_status": "broken"
+  },
+  {
+    "promise_id": "PTP-2026-000011",
+    "case_id": "COL-2026-000095",
+    "contact_attempt_id": "CTP-COL-2026-000095-001",
+    "promised_amount": 82804.76,
+    "promise_date": "2026-10-19",
+    "due_date": "2026-10-21",
+    "promise_status": "broken"
+  }
+]

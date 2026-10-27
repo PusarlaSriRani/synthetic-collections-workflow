@@ -1,0 +1,902 @@
+[
+  {
+    "snapshot_id": "DS-2026-000001",
+    "loan_id": "LOAN-2026-000001",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 238,
+    "arrears_amount": 24608.95,
+    "oldest_unpaid_due_date": "2026-02-26",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000002",
+    "loan_id": "LOAN-2026-000002",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 41,
+    "arrears_amount": 124003.14,
+    "oldest_unpaid_due_date": "2026-09-11",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000003",
+    "loan_id": "LOAN-2026-000003",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 106,
+    "arrears_amount": 51136.68,
+    "oldest_unpaid_due_date": "2026-07-08",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000004",
+    "loan_id": "LOAN-2026-000004",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000005",
+    "loan_id": "LOAN-2026-000005",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 19,
+    "arrears_amount": 35312.32,
+    "oldest_unpaid_due_date": "2026-10-03",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000006",
+    "loan_id": "LOAN-2026-000006",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 304,
+    "arrears_amount": 90026.33,
+    "oldest_unpaid_due_date": "2025-12-22",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000007",
+    "loan_id": "LOAN-2026-000007",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 153,
+    "arrears_amount": 116227.55,
+    "oldest_unpaid_due_date": "2026-05-22",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000008",
+    "loan_id": "LOAN-2026-000008",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000009",
+    "loan_id": "LOAN-2026-000009",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 288,
+    "arrears_amount": 32421.84,
+    "oldest_unpaid_due_date": "2026-01-07",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000010",
+    "loan_id": "LOAN-2026-000010",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000011",
+    "loan_id": "LOAN-2026-000011",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000012",
+    "loan_id": "LOAN-2026-000012",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 293,
+    "arrears_amount": 172552.09,
+    "oldest_unpaid_due_date": "2026-01-02",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000013",
+    "loan_id": "LOAN-2026-000013",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 28,
+    "arrears_amount": 29569.24,
+    "oldest_unpaid_due_date": "2026-09-24",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000014",
+    "loan_id": "LOAN-2026-000014",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 4,
+    "arrears_amount": 118378.4,
+    "oldest_unpaid_due_date": "2026-10-18",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000015",
+    "loan_id": "LOAN-2026-000015",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 152,
+    "arrears_amount": 44732.51,
+    "oldest_unpaid_due_date": "2026-05-23",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000016",
+    "loan_id": "LOAN-2026-000016",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 88,
+    "arrears_amount": 130936.18,
+    "oldest_unpaid_due_date": "2026-07-26",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000017",
+    "loan_id": "LOAN-2026-000017",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 6,
+    "arrears_amount": 50513.37,
+    "oldest_unpaid_due_date": "2026-10-16",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000018",
+    "loan_id": "LOAN-2026-000018",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 68,
+    "arrears_amount": 41398.36,
+    "oldest_unpaid_due_date": "2026-08-15",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000019",
+    "loan_id": "LOAN-2026-000019",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "paid_off"
+  },
+  {
+    "snapshot_id": "DS-2026-000020",
+    "loan_id": "LOAN-2026-000020",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000021",
+    "loan_id": "LOAN-2026-000021",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 65,
+    "arrears_amount": 142566.52,
+    "oldest_unpaid_due_date": "2026-08-18",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000022",
+    "loan_id": "LOAN-2026-000022",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 293,
+    "arrears_amount": 145860.56,
+    "oldest_unpaid_due_date": "2026-01-02",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000023",
+    "loan_id": "LOAN-2026-000023",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 8,
+    "arrears_amount": 117510.21,
+    "oldest_unpaid_due_date": "2026-10-14",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000024",
+    "loan_id": "LOAN-2026-000024",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000025",
+    "loan_id": "LOAN-2026-000025",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 174,
+    "arrears_amount": 93127.58,
+    "oldest_unpaid_due_date": "2026-05-01",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000026",
+    "loan_id": "LOAN-2026-000026",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000027",
+    "loan_id": "LOAN-2026-000027",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 201,
+    "arrears_amount": 125458.81,
+    "oldest_unpaid_due_date": "2026-04-04",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000028",
+    "loan_id": "LOAN-2026-000028",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "paid_off"
+  },
+  {
+    "snapshot_id": "DS-2026-000029",
+    "loan_id": "LOAN-2026-000029",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000030",
+    "loan_id": "LOAN-2026-000030",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 83,
+    "arrears_amount": 148127.39,
+    "oldest_unpaid_due_date": "2026-07-31",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000031",
+    "loan_id": "LOAN-2026-000031",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 240,
+    "arrears_amount": 46413.68,
+    "oldest_unpaid_due_date": "2026-02-24",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000032",
+    "loan_id": "LOAN-2026-000032",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 198,
+    "arrears_amount": 169057.98,
+    "oldest_unpaid_due_date": "2026-04-07",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000033",
+    "loan_id": "LOAN-2026-000033",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000034",
+    "loan_id": "LOAN-2026-000034",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000035",
+    "loan_id": "LOAN-2026-000035",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 284,
+    "arrears_amount": 159640.31,
+    "oldest_unpaid_due_date": "2026-01-11",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000036",
+    "loan_id": "LOAN-2026-000036",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 32,
+    "arrears_amount": 25738.37,
+    "oldest_unpaid_due_date": "2026-09-20",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000037",
+    "loan_id": "LOAN-2026-000037",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 69,
+    "arrears_amount": 92850.42,
+    "oldest_unpaid_due_date": "2026-08-14",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000038",
+    "loan_id": "LOAN-2026-000038",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000039",
+    "loan_id": "LOAN-2026-000039",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 71,
+    "arrears_amount": 125556.62,
+    "oldest_unpaid_due_date": "2026-08-12",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000040",
+    "loan_id": "LOAN-2026-000040",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 185,
+    "arrears_amount": 120253.66,
+    "oldest_unpaid_due_date": "2026-04-20",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000041",
+    "loan_id": "LOAN-2026-000041",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 126,
+    "arrears_amount": 76561.13,
+    "oldest_unpaid_due_date": "2026-06-18",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000042",
+    "loan_id": "LOAN-2026-000042",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 95,
+    "arrears_amount": 91860.22,
+    "oldest_unpaid_due_date": "2026-07-19",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000043",
+    "loan_id": "LOAN-2026-000043",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000044",
+    "loan_id": "LOAN-2026-000044",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 181,
+    "arrears_amount": 215720.12,
+    "oldest_unpaid_due_date": "2026-04-24",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000045",
+    "loan_id": "LOAN-2026-000045",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 133,
+    "arrears_amount": 133624.32,
+    "oldest_unpaid_due_date": "2026-06-11",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000046",
+    "loan_id": "LOAN-2026-000046",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 311,
+    "arrears_amount": 260750.05,
+    "oldest_unpaid_due_date": "2025-12-15",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000047",
+    "loan_id": "LOAN-2026-000047",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 10,
+    "arrears_amount": 6143.47,
+    "oldest_unpaid_due_date": "2026-10-12",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000048",
+    "loan_id": "LOAN-2026-000048",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 274,
+    "arrears_amount": 18238.02,
+    "oldest_unpaid_due_date": "2026-01-21",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000049",
+    "loan_id": "LOAN-2026-000049",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 99,
+    "arrears_amount": 106521.17,
+    "oldest_unpaid_due_date": "2026-07-15",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000050",
+    "loan_id": "LOAN-2026-000050",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 35,
+    "arrears_amount": 75576.73,
+    "oldest_unpaid_due_date": "2026-09-17",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000051",
+    "loan_id": "LOAN-2026-000051",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000052",
+    "loan_id": "LOAN-2026-000052",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 43,
+    "arrears_amount": 102705.98,
+    "oldest_unpaid_due_date": "2026-09-09",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000053",
+    "loan_id": "LOAN-2026-000053",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000054",
+    "loan_id": "LOAN-2026-000054",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 232,
+    "arrears_amount": 122757.45,
+    "oldest_unpaid_due_date": "2026-03-04",
+    "snapshot_status": "disputed"
+  },
+  {
+    "snapshot_id": "DS-2026-000055",
+    "loan_id": "LOAN-2026-000055",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000056",
+    "loan_id": "LOAN-2026-000056",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 261,
+    "arrears_amount": 219386.31,
+    "oldest_unpaid_due_date": "2026-02-03",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000057",
+    "loan_id": "LOAN-2026-000057",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 198,
+    "arrears_amount": 134851.79,
+    "oldest_unpaid_due_date": "2026-04-07",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000058",
+    "loan_id": "LOAN-2026-000058",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 85,
+    "arrears_amount": 47541.46,
+    "oldest_unpaid_due_date": "2026-07-29",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000059",
+    "loan_id": "LOAN-2026-000059",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000060",
+    "loan_id": "LOAN-2026-000060",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 34,
+    "arrears_amount": 86275.67,
+    "oldest_unpaid_due_date": "2026-09-18",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000061",
+    "loan_id": "LOAN-2026-000061",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000062",
+    "loan_id": "LOAN-2026-000062",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000063",
+    "loan_id": "LOAN-2026-000063",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000064",
+    "loan_id": "LOAN-2026-000064",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 125,
+    "arrears_amount": 114186.17,
+    "oldest_unpaid_due_date": "2026-06-19",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000065",
+    "loan_id": "LOAN-2026-000065",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000066",
+    "loan_id": "LOAN-2026-000066",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000067",
+    "loan_id": "LOAN-2026-000067",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 152,
+    "arrears_amount": 279020.02,
+    "oldest_unpaid_due_date": "2026-05-23",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000068",
+    "loan_id": "LOAN-2026-000068",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 236,
+    "arrears_amount": 57375.36,
+    "oldest_unpaid_due_date": "2026-02-28",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000069",
+    "loan_id": "LOAN-2026-000069",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 81,
+    "arrears_amount": 22667.12,
+    "oldest_unpaid_due_date": "2026-08-02",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000070",
+    "loan_id": "LOAN-2026-000070",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "paid_off"
+  },
+  {
+    "snapshot_id": "DS-2026-000071",
+    "loan_id": "LOAN-2026-000071",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 190,
+    "arrears_amount": 60480.14,
+    "oldest_unpaid_due_date": "2026-04-15",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000072",
+    "loan_id": "LOAN-2026-000072",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 200,
+    "arrears_amount": 134586.86,
+    "oldest_unpaid_due_date": "2026-04-05",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000073",
+    "loan_id": "LOAN-2026-000073",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 281,
+    "arrears_amount": 121713.37,
+    "oldest_unpaid_due_date": "2026-01-14",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000074",
+    "loan_id": "LOAN-2026-000074",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 232,
+    "arrears_amount": 74947.5,
+    "oldest_unpaid_due_date": "2026-03-04",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000075",
+    "loan_id": "LOAN-2026-000075",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 181,
+    "arrears_amount": 298549.0,
+    "oldest_unpaid_due_date": "2026-04-24",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000076",
+    "loan_id": "LOAN-2026-000076",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 172,
+    "arrears_amount": 21586.23,
+    "oldest_unpaid_due_date": "2026-05-03",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000077",
+    "loan_id": "LOAN-2026-000077",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 104,
+    "arrears_amount": 167812.67,
+    "oldest_unpaid_due_date": "2026-07-10",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000078",
+    "loan_id": "LOAN-2026-000078",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000079",
+    "loan_id": "LOAN-2026-000079",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000080",
+    "loan_id": "LOAN-2026-000080",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 258,
+    "arrears_amount": 268632.65,
+    "oldest_unpaid_due_date": "2026-02-06",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000081",
+    "loan_id": "LOAN-2026-000081",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 53,
+    "arrears_amount": 89101.85,
+    "oldest_unpaid_due_date": "2026-08-30",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000082",
+    "loan_id": "LOAN-2026-000082",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000083",
+    "loan_id": "LOAN-2026-000083",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000084",
+    "loan_id": "LOAN-2026-000084",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 239,
+    "arrears_amount": 119746.19,
+    "oldest_unpaid_due_date": "2026-02-25",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000085",
+    "loan_id": "LOAN-2026-000085",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000086",
+    "loan_id": "LOAN-2026-000086",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 181,
+    "arrears_amount": 58385.37,
+    "oldest_unpaid_due_date": "2026-04-24",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000087",
+    "loan_id": "LOAN-2026-000087",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "paid_off"
+  },
+  {
+    "snapshot_id": "DS-2026-000088",
+    "loan_id": "LOAN-2026-000088",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 50,
+    "arrears_amount": 85709.15,
+    "oldest_unpaid_due_date": "2026-09-02",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000089",
+    "loan_id": "LOAN-2026-000089",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000090",
+    "loan_id": "LOAN-2026-000090",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 30,
+    "arrears_amount": 7905.73,
+    "oldest_unpaid_due_date": "2026-09-22",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000091",
+    "loan_id": "LOAN-2026-000091",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 249,
+    "arrears_amount": 236855.91,
+    "oldest_unpaid_due_date": "2026-02-15",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000092",
+    "loan_id": "LOAN-2026-000092",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 256,
+    "arrears_amount": 49662.0,
+    "oldest_unpaid_due_date": "2026-02-08",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000093",
+    "loan_id": "LOAN-2026-000093",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 38,
+    "arrears_amount": 12221.61,
+    "oldest_unpaid_due_date": "2026-09-14",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000094",
+    "loan_id": "LOAN-2026-000094",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 103,
+    "arrears_amount": 64342.11,
+    "oldest_unpaid_due_date": "2026-07-11",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000095",
+    "loan_id": "LOAN-2026-000095",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 310,
+    "arrears_amount": 200900.92,
+    "oldest_unpaid_due_date": "2025-12-16",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000096",
+    "loan_id": "LOAN-2026-000096",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 202,
+    "arrears_amount": 18331.7,
+    "oldest_unpaid_due_date": "2026-04-03",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000097",
+    "loan_id": "LOAN-2026-000097",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000098",
+    "loan_id": "LOAN-2026-000098",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 188,
+    "arrears_amount": 121580.09,
+    "oldest_unpaid_due_date": "2026-04-17",
+    "snapshot_status": "delinquent"
+  },
+  {
+    "snapshot_id": "DS-2026-000099",
+    "loan_id": "LOAN-2026-000099",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 0,
+    "arrears_amount": 0.0,
+    "oldest_unpaid_due_date": "",
+    "snapshot_status": "current"
+  },
+  {
+    "snapshot_id": "DS-2026-000100",
+    "loan_id": "LOAN-2026-000100",
+    "snapshot_date": "2026-10-22",
+    "days_past_due": 147,
+    "arrears_amount": 265308.31,
+    "oldest_unpaid_due_date": "2026-05-28",
+    "snapshot_status": "disputed"
+  }
+]

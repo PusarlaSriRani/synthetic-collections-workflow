@@ -1,0 +1,802 @@
+[
+  {
+    "customer_id": "CUS-2026-000001",
+    "first_name": "Tara",
+    "last_name": "Kumar",
+    "created_date": "2022-10-01",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000002",
+    "first_name": "Diya",
+    "last_name": "Kumar",
+    "created_date": "2026-03-25",
+    "customer_segment": "standard",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000003",
+    "first_name": "Aarav",
+    "last_name": "Gupta",
+    "created_date": "2023-04-03",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000004",
+    "first_name": "Ishaan",
+    "last_name": "Singh",
+    "created_date": "2021-11-20",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000005",
+    "first_name": "Tara",
+    "last_name": "Das",
+    "created_date": "2025-07-26",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000006",
+    "first_name": "Diya",
+    "last_name": "Rao",
+    "created_date": "2024-05-25",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000007",
+    "first_name": "Diya",
+    "last_name": "Gupta",
+    "created_date": "2026-02-21",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000008",
+    "first_name": "Tara",
+    "last_name": "Das",
+    "created_date": "2026-05-01",
+    "customer_segment": "small_business",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000009",
+    "first_name": "Rohan",
+    "last_name": "Joshi",
+    "created_date": "2024-11-08",
+    "customer_segment": "standard",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000010",
+    "first_name": "Aarav",
+    "last_name": "Kumar",
+    "created_date": "2026-06-25",
+    "customer_segment": "standard",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000011",
+    "first_name": "Arjun",
+    "last_name": "Rao",
+    "created_date": "2023-09-06",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000012",
+    "first_name": "Kiran",
+    "last_name": "Kumar",
+    "created_date": "2024-12-28",
+    "customer_segment": "small_business",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000013",
+    "first_name": "Rohan",
+    "last_name": "Reddy",
+    "created_date": "2025-07-25",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000014",
+    "first_name": "Saanvi",
+    "last_name": "Joshi",
+    "created_date": "2022-02-17",
+    "customer_segment": "vulnerable",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000015",
+    "first_name": "Saanvi",
+    "last_name": "Das",
+    "created_date": "2022-02-06",
+    "customer_segment": "small_business",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000016",
+    "first_name": "Meera",
+    "last_name": "Sharma",
+    "created_date": "2023-09-30",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000017",
+    "first_name": "Kabir",
+    "last_name": "Joshi",
+    "created_date": "2026-07-01",
+    "customer_segment": "small_business",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000018",
+    "first_name": "Diya",
+    "last_name": "Das",
+    "created_date": "2025-05-01",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000019",
+    "first_name": "Ishaan",
+    "last_name": "Joshi",
+    "created_date": "2024-03-08",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000020",
+    "first_name": "Saanvi",
+    "last_name": "Naidu",
+    "created_date": "2022-11-24",
+    "customer_segment": "vulnerable",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000021",
+    "first_name": "Meera",
+    "last_name": "Das",
+    "created_date": "2023-11-19",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000022",
+    "first_name": "Saanvi",
+    "last_name": "Sharma",
+    "created_date": "2023-09-12",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000023",
+    "first_name": "Kiran",
+    "last_name": "Gupta",
+    "created_date": "2026-01-19",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000024",
+    "first_name": "Kabir",
+    "last_name": "Reddy",
+    "created_date": "2023-05-28",
+    "customer_segment": "standard",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000025",
+    "first_name": "Kabir",
+    "last_name": "Patel",
+    "created_date": "2023-06-21",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000026",
+    "first_name": "Ishaan",
+    "last_name": "Das",
+    "created_date": "2022-09-12",
+    "customer_segment": "vulnerable",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000027",
+    "first_name": "Diya",
+    "last_name": "Rao",
+    "created_date": "2025-06-08",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000028",
+    "first_name": "Nisha",
+    "last_name": "Reddy",
+    "created_date": "2023-11-14",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000029",
+    "first_name": "Kiran",
+    "last_name": "Singh",
+    "created_date": "2022-10-09",
+    "customer_segment": "vulnerable",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000030",
+    "first_name": "Kiran",
+    "last_name": "Joshi",
+    "created_date": "2026-07-15",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000031",
+    "first_name": "Aarav",
+    "last_name": "Iyer",
+    "created_date": "2026-01-13",
+    "customer_segment": "small_business",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000032",
+    "first_name": "Aarav",
+    "last_name": "Iyer",
+    "created_date": "2024-05-19",
+    "customer_segment": "small_business",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000033",
+    "first_name": "Meera",
+    "last_name": "Iyer",
+    "created_date": "2025-08-08",
+    "customer_segment": "standard",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000034",
+    "first_name": "Nisha",
+    "last_name": "Kumar",
+    "created_date": "2024-08-06",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000035",
+    "first_name": "Kabir",
+    "last_name": "Patel",
+    "created_date": "2025-04-12",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000036",
+    "first_name": "Meera",
+    "last_name": "Joshi",
+    "created_date": "2026-01-14",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000037",
+    "first_name": "Aarav",
+    "last_name": "Naidu",
+    "created_date": "2024-03-31",
+    "customer_segment": "small_business",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000038",
+    "first_name": "Ishaan",
+    "last_name": "Kumar",
+    "created_date": "2024-08-01",
+    "customer_segment": "vulnerable",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000039",
+    "first_name": "Ishaan",
+    "last_name": "Das",
+    "created_date": "2023-07-11",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000040",
+    "first_name": "Meera",
+    "last_name": "Patel",
+    "created_date": "2026-03-06",
+    "customer_segment": "small_business",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000041",
+    "first_name": "Nisha",
+    "last_name": "Patel",
+    "created_date": "2026-06-05",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000042",
+    "first_name": "Saanvi",
+    "last_name": "Reddy",
+    "created_date": "2025-10-05",
+    "customer_segment": "small_business",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000043",
+    "first_name": "Diya",
+    "last_name": "Rao",
+    "created_date": "2025-09-13",
+    "customer_segment": "vulnerable",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000044",
+    "first_name": "Diya",
+    "last_name": "Iyer",
+    "created_date": "2021-12-09",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000045",
+    "first_name": "Rohan",
+    "last_name": "Patel",
+    "created_date": "2025-07-04",
+    "customer_segment": "standard",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000046",
+    "first_name": "Nisha",
+    "last_name": "Kumar",
+    "created_date": "2022-06-27",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000047",
+    "first_name": "Aarav",
+    "last_name": "Naidu",
+    "created_date": "2025-09-07",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000048",
+    "first_name": "Kiran",
+    "last_name": "Menon",
+    "created_date": "2022-06-21",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000049",
+    "first_name": "Meera",
+    "last_name": "Singh",
+    "created_date": "2022-01-21",
+    "customer_segment": "vulnerable",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000050",
+    "first_name": "Tara",
+    "last_name": "Naidu",
+    "created_date": "2026-01-22",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000051",
+    "first_name": "Arjun",
+    "last_name": "Iyer",
+    "created_date": "2025-11-21",
+    "customer_segment": "vulnerable",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000052",
+    "first_name": "Kabir",
+    "last_name": "Gupta",
+    "created_date": "2025-12-07",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000053",
+    "first_name": "Diya",
+    "last_name": "Das",
+    "created_date": "2021-11-25",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000054",
+    "first_name": "Ishaan",
+    "last_name": "Reddy",
+    "created_date": "2022-06-25",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000055",
+    "first_name": "Arjun",
+    "last_name": "Patel",
+    "created_date": "2023-03-01",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000056",
+    "first_name": "Tara",
+    "last_name": "Gupta",
+    "created_date": "2025-08-14",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000057",
+    "first_name": "Arjun",
+    "last_name": "Naidu",
+    "created_date": "2023-09-28",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000058",
+    "first_name": "Ananya",
+    "last_name": "Iyer",
+    "created_date": "2025-06-10",
+    "customer_segment": "vulnerable",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000059",
+    "first_name": "Kabir",
+    "last_name": "Iyer",
+    "created_date": "2022-03-30",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000060",
+    "first_name": "Tara",
+    "last_name": "Menon",
+    "created_date": "2023-12-18",
+    "customer_segment": "small_business",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000061",
+    "first_name": "Ishaan",
+    "last_name": "Gupta",
+    "created_date": "2022-12-16",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000062",
+    "first_name": "Kabir",
+    "last_name": "Gupta",
+    "created_date": "2022-04-02",
+    "customer_segment": "small_business",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000063",
+    "first_name": "Ananya",
+    "last_name": "Singh",
+    "created_date": "2024-05-23",
+    "customer_segment": "standard",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000064",
+    "first_name": "Ananya",
+    "last_name": "Iyer",
+    "created_date": "2022-12-14",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000065",
+    "first_name": "Meera",
+    "last_name": "Patel",
+    "created_date": "2025-06-02",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000066",
+    "first_name": "Ananya",
+    "last_name": "Gupta",
+    "created_date": "2024-12-08",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000067",
+    "first_name": "Kabir",
+    "last_name": "Gupta",
+    "created_date": "2025-01-29",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000068",
+    "first_name": "Saanvi",
+    "last_name": "Reddy",
+    "created_date": "2026-03-27",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000069",
+    "first_name": "Saanvi",
+    "last_name": "Singh",
+    "created_date": "2022-08-29",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000070",
+    "first_name": "Diya",
+    "last_name": "Kumar",
+    "created_date": "2026-06-09",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000071",
+    "first_name": "Aarav",
+    "last_name": "Iyer",
+    "created_date": "2026-02-06",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000072",
+    "first_name": "Aarav",
+    "last_name": "Rao",
+    "created_date": "2023-06-19",
+    "customer_segment": "vulnerable",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000073",
+    "first_name": "Diya",
+    "last_name": "Patel",
+    "created_date": "2025-06-23",
+    "customer_segment": "standard",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000074",
+    "first_name": "Arjun",
+    "last_name": "Reddy",
+    "created_date": "2026-05-14",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000075",
+    "first_name": "Aarav",
+    "last_name": "Naidu",
+    "created_date": "2023-10-16",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000076",
+    "first_name": "Ananya",
+    "last_name": "Patel",
+    "created_date": "2022-12-20",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000077",
+    "first_name": "Kiran",
+    "last_name": "Iyer",
+    "created_date": "2022-01-13",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000078",
+    "first_name": "Saanvi",
+    "last_name": "Kumar",
+    "created_date": "2024-04-04",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000079",
+    "first_name": "Ishaan",
+    "last_name": "Patel",
+    "created_date": "2024-01-09",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000080",
+    "first_name": "Nisha",
+    "last_name": "Joshi",
+    "created_date": "2025-05-29",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000081",
+    "first_name": "Ishaan",
+    "last_name": "Patel",
+    "created_date": "2022-11-06",
+    "customer_segment": "small_business",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000082",
+    "first_name": "Nisha",
+    "last_name": "Iyer",
+    "created_date": "2021-12-12",
+    "customer_segment": "standard",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000083",
+    "first_name": "Aarav",
+    "last_name": "Reddy",
+    "created_date": "2024-12-09",
+    "customer_segment": "vulnerable",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000084",
+    "first_name": "Nisha",
+    "last_name": "Menon",
+    "created_date": "2022-05-27",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000085",
+    "first_name": "Kiran",
+    "last_name": "Rao",
+    "created_date": "2024-02-24",
+    "customer_segment": "standard",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000086",
+    "first_name": "Kiran",
+    "last_name": "Kumar",
+    "created_date": "2022-08-26",
+    "customer_segment": "standard",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000087",
+    "first_name": "Arjun",
+    "last_name": "Joshi",
+    "created_date": "2025-08-15",
+    "customer_segment": "vulnerable",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000088",
+    "first_name": "Saanvi",
+    "last_name": "Iyer",
+    "created_date": "2025-02-12",
+    "customer_segment": "standard",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000089",
+    "first_name": "Kiran",
+    "last_name": "Naidu",
+    "created_date": "2022-03-03",
+    "customer_segment": "small_business",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000090",
+    "first_name": "Ishaan",
+    "last_name": "Rao",
+    "created_date": "2024-05-26",
+    "customer_segment": "standard",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000091",
+    "first_name": "Aarav",
+    "last_name": "Menon",
+    "created_date": "2022-09-29",
+    "customer_segment": "vulnerable",
+    "preferred_language": "hi"
+  },
+  {
+    "customer_id": "CUS-2026-000092",
+    "first_name": "Ishaan",
+    "last_name": "Menon",
+    "created_date": "2023-04-01",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000093",
+    "first_name": "Tara",
+    "last_name": "Gupta",
+    "created_date": "2024-08-27",
+    "customer_segment": "small_business",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000094",
+    "first_name": "Diya",
+    "last_name": "Das",
+    "created_date": "2024-03-17",
+    "customer_segment": "vulnerable",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000095",
+    "first_name": "Tara",
+    "last_name": "Joshi",
+    "created_date": "2024-01-09",
+    "customer_segment": "standard",
+    "preferred_language": "te"
+  },
+  {
+    "customer_id": "CUS-2026-000096",
+    "first_name": "Aarav",
+    "last_name": "Reddy",
+    "created_date": "2025-03-14",
+    "customer_segment": "standard",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000097",
+    "first_name": "Diya",
+    "last_name": "Singh",
+    "created_date": "2024-01-24",
+    "customer_segment": "standard",
+    "preferred_language": "ta"
+  },
+  {
+    "customer_id": "CUS-2026-000098",
+    "first_name": "Kiran",
+    "last_name": "Naidu",
+    "created_date": "2026-07-22",
+    "customer_segment": "small_business",
+    "preferred_language": "kn"
+  },
+  {
+    "customer_id": "CUS-2026-000099",
+    "first_name": "Kiran",
+    "last_name": "Kumar",
+    "created_date": "2023-02-14",
+    "customer_segment": "vulnerable",
+    "preferred_language": "en"
+  },
+  {
+    "customer_id": "CUS-2026-000100",
+    "first_name": "Tara",
+    "last_name": "Gupta",
+    "created_date": "2024-07-29",
+    "customer_segment": "vulnerable",
+    "preferred_language": "ta"
+  }
+]

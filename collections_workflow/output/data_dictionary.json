@@ -1,0 +1,502 @@
+{
+  "Customer": {
+    "pk": "customer_id",
+    "fields": {
+      "customer_id": [
+        "string",
+        "required",
+        "unique",
+        "CUS-YYYY-NNNNNN; immutable deterministic ID"
+      ],
+      "first_name": [
+        "string",
+        "required",
+        "",
+        "synthetic first name"
+      ],
+      "last_name": [
+        "string",
+        "required",
+        "",
+        "synthetic last name"
+      ],
+      "created_date": [
+        "date",
+        "required",
+        "",
+        "not after as_of_date"
+      ],
+      "customer_segment": [
+        "enum",
+        "required",
+        "standard|vulnerable|small_business",
+        "allowed enum"
+      ],
+      "preferred_language": [
+        "enum",
+        "required",
+        "en|hi|te|ta|kn",
+        "allowed enum"
+      ]
+    }
+  },
+  "Account": {
+    "pk": "account_id",
+    "fields": {
+      "account_id": [
+        "string",
+        "required",
+        "unique",
+        "ACC-YYYY-NNNNNN"
+      ],
+      "customer_id": [
+        "string",
+        "required",
+        "FK Customer",
+        "must reference Customer"
+      ],
+      "opened_date": [
+        "date",
+        "required",
+        "",
+        "<= as_of_date"
+      ],
+      "account_status": [
+        "enum",
+        "required",
+        "active|closed|paid_off",
+        "closed accounts must have zero balance where applicable"
+      ],
+      "hardship_flag": [
+        "boolean",
+        "required",
+        "",
+        "true/false"
+      ],
+      "risk_band": [
+        "enum",
+        "required",
+        "low|medium|high",
+        "allowed enum"
+      ]
+    }
+  },
+  "Loan": {
+    "pk": "loan_id",
+    "fields": {
+      "loan_id": [
+        "string",
+        "required",
+        "unique",
+        "LOAN-2026-NNNNNN"
+      ],
+      "account_id": [
+        "string",
+        "required",
+        "FK Account",
+        "must reference Account"
+      ],
+      "principal_amount": [
+        "decimal",
+        "required",
+        "INR",
+        "> 0"
+      ],
+      "annual_interest_rate": [
+        "decimal",
+        "required",
+        "percent",
+        "0..40"
+      ],
+      "term_months": [
+        "integer",
+        "required",
+        "months",
+        "exactly 3 installments per 12-month synthetic loan cohort"
+      ],
+      "origination_date": [
+        "date",
+        "required",
+        "",
+        "<= first due date"
+      ],
+      "loan_status": [
+        "enum",
+        "required",
+        "active|paid_off|closed",
+        "paid_off requires zero outstanding"
+      ],
+      "currency": [
+        "string",
+        "required",
+        "INR",
+        "fixed INR"
+      ]
+    }
+  },
+  "Installment": {
+    "pk": "installment_id",
+    "fields": {
+      "installment_id": [
+        "string",
+        "required",
+        "unique",
+        "INS-<loan-id>-NNN"
+      ],
+      "loan_id": [
+        "string",
+        "required",
+        "FK Loan",
+        "must reference Loan"
+      ],
+      "installment_number": [
+        "integer",
+        "required",
+        "1..3",
+        "unique with loan_id"
+      ],
+      "due_date": [
+        "date",
+        "required",
+        "",
+        "ascending within loan"
+      ],
+      "scheduled_amount": [
+        "decimal",
+        "required",
+        "INR",
+        "> 0"
+      ],
+      "paid_amount": [
+        "decimal",
+        "required",
+        "INR",
+        ">= 0; derived from allocated payments"
+      ],
+      "outstanding_amount": [
+        "decimal",
+        "required",
+        "INR",
+        "max(0, scheduled-paid) except labelled allocation anomaly"
+      ],
+      "installment_status": [
+        "enum",
+        "required",
+        "paid|partial|overdue|upcoming",
+        "derived from amounts and due date"
+      ]
+    }
+  },
+  "DelinquencySnapshot": {
+    "pk": "snapshot_id",
+    "fields": {
+      "snapshot_id": [
+        "string",
+        "required",
+        "unique",
+        "DS-YYYY-NNNNNN"
+      ],
+      "loan_id": [
+        "string",
+        "required",
+        "FK Loan",
+        "must reference Loan"
+      ],
+      "snapshot_date": [
+        "date",
+        "required",
+        "",
+        "as_of_date"
+      ],
+      "days_past_due": [
+        "integer",
+        "required",
+        "days",
+        "max(0, as_of_date-oldest unpaid due date)"
+      ],
+      "arrears_amount": [
+        "decimal",
+        "required",
+        "INR",
+        "sum outstanding for due installments"
+      ],
+      "oldest_unpaid_due_date": [
+        "date",
+        "optional",
+        "",
+        "null when no arrears"
+      ],
+      "snapshot_status": [
+        "enum",
+        "required",
+        "current|delinquent|paid_off|disputed",
+        "derived from loan/installment state"
+      ]
+    }
+  },
+  "ContactPreference": {
+    "pk": "preference_id",
+    "fields": {
+      "preference_id": [
+        "string",
+        "required",
+        "unique",
+        "PREF-<customer-id>"
+      ],
+      "customer_id": [
+        "string",
+        "required",
+        "FK Customer",
+        "one active preference per customer"
+      ],
+      "effective_from": [
+        "date",
+        "required",
+        "",
+        "<= as_of_date"
+      ],
+      "effective_to": [
+        "date",
+        "optional",
+        "",
+        ">= effective_from"
+      ],
+      "timezone": [
+        "string",
+        "required",
+        "Asia/Kolkata",
+        "fixed for synthetic data"
+      ],
+      "allowed_start_local": [
+        "time",
+        "required",
+        "",
+        "09:00 or 10:00"
+      ],
+      "allowed_end_local": [
+        "time",
+        "required",
+        "",
+        "18:00 or 19:00"
+      ],
+      "channel": [
+        "enum",
+        "required",
+        "phone|sms|email|letter",
+        "allowed channel"
+      ],
+      "do_not_contact": [
+        "boolean",
+        "required",
+        "",
+        "true blocks proactive contact"
+      ]
+    }
+  },
+  "ContactAttempt": {
+    "pk": "contact_attempt_id",
+    "fields": {
+      "contact_attempt_id": [
+        "string",
+        "required",
+        "unique",
+        "CTP-<case-id>-NNN"
+      ],
+      "case_id": [
+        "string",
+        "required",
+        "FK CollectionCase",
+        "must reference CollectionCase"
+      ],
+      "attempt_at": [
+        "datetime",
+        "required",
+        "",
+        "within preference window unless labelled anomaly"
+      ],
+      "channel": [
+        "enum",
+        "required",
+        "phone|sms|email|letter",
+        "must respect contact preference"
+      ],
+      "outcome": [
+        "enum",
+        "required",
+        "reached|no_answer|voicemail|dispute|hardship|promise_made|wrong_number|do_not_contact",
+        "allowed enum"
+      ],
+      "agent_id": [
+        "string",
+        "required",
+        "",
+        "synthetic agent ID"
+      ],
+      "notes_code": [
+        "enum",
+        "required",
+        "none|payment_plan|financial_difficulty|identity_check|dispute_raised",
+        "no free-text personal data"
+      ]
+    }
+  },
+  "PromiseToPay": {
+    "pk": "promise_id",
+    "fields": {
+      "promise_id": [
+        "string",
+        "required",
+        "unique",
+        "PTP-YYYY-NNNNNN"
+      ],
+      "case_id": [
+        "string",
+        "required",
+        "FK CollectionCase",
+        "must reference CollectionCase"
+      ],
+      "contact_attempt_id": [
+        "string",
+        "required",
+        "FK ContactAttempt",
+        "must reference a promise_made attempt"
+      ],
+      "promised_amount": [
+        "decimal",
+        "required",
+        "INR",
+        ">0 and <= arrears at promise time unless labelled anomaly"
+      ],
+      "promise_date": [
+        "date",
+        "required",
+        "",
+        ">= attempt date"
+      ],
+      "due_date": [
+        "date",
+        "required",
+        "",
+        "promise date..promise date+30 days"
+      ],
+      "promise_status": [
+        "enum",
+        "required",
+        "pending|kept|partial|broken|cancelled",
+        "reconciled from subsequent payments and due date"
+      ]
+    }
+  },
+  "Payment": {
+    "pk": "payment_id",
+    "fields": {
+      "payment_id": [
+        "string",
+        "required",
+        "unique",
+        "PMT-2026-NNNNNN"
+      ],
+      "loan_id": [
+        "string",
+        "required",
+        "FK Loan",
+        "must reference Loan"
+      ],
+      "installment_id": [
+        "string",
+        "required",
+        "FK Installment",
+        "must reference installment; deliberate mismatch only in labelled anomaly"
+      ],
+      "payment_date": [
+        "date",
+        "required",
+        "",
+        "<= as_of_date"
+      ],
+      "amount": [
+        "decimal",
+        "required",
+        "INR",
+        ">0"
+      ],
+      "payment_status": [
+        "enum",
+        "required",
+        "settled|reversed|pending",
+        "only settled payments count toward paid amount"
+      ],
+      "source": [
+        "enum",
+        "required",
+        "bank_transfer|upi|card|cash|standing_order",
+        "allowed enum"
+      ]
+    }
+  },
+  "CollectionCase": {
+    "pk": "case_id",
+    "fields": {
+      "case_id": [
+        "string",
+        "required",
+        "unique",
+        "COL-2026-NNNNNN"
+      ],
+      "loan_id": [
+        "string",
+        "required",
+        "FK Loan",
+        "must reference Loan"
+      ],
+      "snapshot_id": [
+        "string",
+        "required",
+        "FK DelinquencySnapshot",
+        "must reference snapshot"
+      ],
+      "case_status": [
+        "enum",
+        "required",
+        "open|paused_dispute|paused_hardship|closed_paid|closed_resolved",
+        "derived from delinquency, dispute and hardship"
+      ],
+      "priority_score": [
+        "decimal",
+        "required",
+        "0..100",
+        "explainable formula using arrears, DPD and risk band"
+      ],
+      "priority_band": [
+        "enum",
+        "required",
+        "low|medium|high|urgent",
+        "derived from score"
+      ],
+      "dispute_flag": [
+        "boolean",
+        "required",
+        "",
+        "disputed debt must be paused pending review"
+      ],
+      "hardship_flag": [
+        "boolean",
+        "required",
+        "",
+        "pause/adjust cadence as applicable"
+      ],
+      "next_action_date": [
+        "date",
+        "optional",
+        "",
+        "null if no contact permitted or case paused/closed"
+      ],
+      "decision_reason": [
+        "string",
+        "required",
+        "",
+        "rule codes, not free text"
+      ]
+    }
+  }
+}

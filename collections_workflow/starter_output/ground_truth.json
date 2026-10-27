@@ -1,0 +1,47 @@
+[
+  {
+    "issue_id": "ANOM-001",
+    "issue_type": "paid_account_remains_in_collection",
+    "entity_type": "CollectionCase",
+    "entity_id": "COL-2026-000019",
+    "ground_truth": "should_be_closed_paid",
+    "expected_decision": "suppress_collection_and_close_case",
+    "severity": "high"
+  },
+  {
+    "issue_id": "ANOM-002",
+    "issue_type": "contact_outside_allowed_window",
+    "entity_type": "ContactAttempt",
+    "entity_id": "CTP-COL-2026-000002-001",
+    "ground_truth": "prohibited_contact_time",
+    "expected_decision": "flag_and_prevent_contact",
+    "severity": "high"
+  },
+  {
+    "issue_id": "ANOM-003",
+    "issue_type": "payment_allocated_to_wrong_installment",
+    "entity_type": "Payment",
+    "entity_id": "PMT-2026-000001",
+    "ground_truth": "foreign_parent_mismatch",
+    "expected_decision": "quarantine_and_reconcile_allocation",
+    "severity": "high"
+  },
+  {
+    "issue_id": "ANOM-004",
+    "issue_type": "promise_amount_exceeds_arrears",
+    "entity_type": "PromiseToPay",
+    "entity_id": "PTP-2026-000001",
+    "ground_truth": "promise_amount_above_arrears",
+    "expected_decision": "reject_or_reconfirm_promise",
+    "severity": "medium"
+  },
+  {
+    "issue_id": "ANOM-005",
+    "issue_type": "disputed_debt_treated_as_confirmed",
+    "entity_type": "CollectionCase",
+    "entity_id": "COL-2026-000054",
+    "ground_truth": "must_pause_for_dispute_review",
+    "expected_decision": "pause_collection_until_reviewed",
+    "severity": "high"
+  }
+]

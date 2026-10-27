@@ -1,0 +1,151 @@
+{
+  "seed": 20261022,
+  "as_of_date": "2026-10-22",
+  "row_counts": {
+    "Customer": 100,
+    "Account": 100,
+    "Loan": 100,
+    "Installment": 300,
+    "DelinquencySnapshot": 100,
+    "ContactPreference": 100,
+    "ContactAttempt": 74,
+    "PromiseToPay": 11,
+    "Payment": 112,
+    "CollectionCase": 100
+  },
+  "checks": [
+    {
+      "check": "Customer.primary_key_unique",
+      "status": "PASS",
+      "detail": "100 rows; 0 duplicate keys"
+    },
+    {
+      "check": "Account.primary_key_unique",
+      "status": "PASS",
+      "detail": "100 rows; 0 duplicate keys"
+    },
+    {
+      "check": "Loan.primary_key_unique",
+      "status": "PASS",
+      "detail": "100 rows; 0 duplicate keys"
+    },
+    {
+      "check": "Installment.primary_key_unique",
+      "status": "PASS",
+      "detail": "300 rows; 0 duplicate keys"
+    },
+    {
+      "check": "DelinquencySnapshot.primary_key_unique",
+      "status": "PASS",
+      "detail": "100 rows; 0 duplicate keys"
+    },
+    {
+      "check": "ContactPreference.primary_key_unique",
+      "status": "PASS",
+      "detail": "100 rows; 0 duplicate keys"
+    },
+    {
+      "check": "ContactAttempt.primary_key_unique",
+      "status": "PASS",
+      "detail": "74 rows; 0 duplicate keys"
+    },
+    {
+      "check": "PromiseToPay.primary_key_unique",
+      "status": "PASS",
+      "detail": "11 rows; 0 duplicate keys"
+    },
+    {
+      "check": "Payment.primary_key_unique",
+      "status": "PASS",
+      "detail": "112 rows; 0 duplicate keys"
+    },
+    {
+      "check": "CollectionCase.primary_key_unique",
+      "status": "PASS",
+      "detail": "100 rows; 0 duplicate keys"
+    },
+    {
+      "check": "Account.customer_id",
+      "status": "PASS",
+      "detail": "0 missing references (some may be labelled anomaly)"
+    },
+    {
+      "check": "Loan.account_id",
+      "status": "PASS",
+      "detail": "0 missing references (some may be labelled anomaly)"
+    },
+    {
+      "check": "Installment.loan_id",
+      "status": "PASS",
+      "detail": "0 missing references (some may be labelled anomaly)"
+    },
+    {
+      "check": "DelinquencySnapshot.loan_id",
+      "status": "PASS",
+      "detail": "0 missing references (some may be labelled anomaly)"
+    },
+    {
+      "check": "ContactPreference.customer_id",
+      "status": "PASS",
+      "detail": "0 missing references (some may be labelled anomaly)"
+    },
+    {
+      "check": "CollectionCase.loan_id",
+      "status": "PASS",
+      "detail": "0 missing references (some may be labelled anomaly)"
+    },
+    {
+      "check": "CollectionCase.snapshot_id",
+      "status": "PASS",
+      "detail": "0 missing references (some may be labelled anomaly)"
+    },
+    {
+      "check": "ContactAttempt.case_id",
+      "status": "PASS",
+      "detail": "0 missing references (some may be labelled anomaly)"
+    },
+    {
+      "check": "PromiseToPay.case_id",
+      "status": "PASS",
+      "detail": "0 missing references (some may be labelled anomaly)"
+    },
+    {
+      "check": "PromiseToPay.contact_attempt_id",
+      "status": "PASS",
+      "detail": "0 missing references (some may be labelled anomaly)"
+    },
+    {
+      "check": "Payment.loan_id",
+      "status": "PASS",
+      "detail": "0 missing references (some may be labelled anomaly)"
+    },
+    {
+      "check": "Payment.installment_id",
+      "status": "PASS",
+      "detail": "0 missing references (some may be labelled anomaly)"
+    },
+    {
+      "check": "Payment.loan_matches_Installment.loan",
+      "status": "PASS",
+      "detail": "1 cross-parent mismatches; 0 are unlabelled"
+    },
+    {
+      "check": "installment_payment_reconciliation",
+      "status": "PASS",
+      "detail": "2 total mismatches; 0 unexplained"
+    },
+    {
+      "check": "required_anomaly_labels",
+      "status": "PASS",
+      "detail": "5 labelled ground-truth cases"
+    }
+  ],
+  "failed_checks": 0,
+  "ground_truth_issue_types": {
+    "paid_account_remains_in_collection": 1,
+    "contact_outside_allowed_window": 1,
+    "payment_allocated_to_wrong_installment": 1,
+    "promise_amount_exceeds_arrears": 1,
+    "disputed_debt_treated_as_confirmed": 1
+  }
+}

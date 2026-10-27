@@ -1,0 +1,802 @@
+[
+  {
+    "account_id": "ACC-2026-000001",
+    "customer_id": "CUS-2026-000001",
+    "opened_date": "2022-10-01",
+    "account_status": "active",
+    "hardship_flag": "true",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000002",
+    "customer_id": "CUS-2026-000002",
+    "opened_date": "2026-03-25",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000003",
+    "customer_id": "CUS-2026-000003",
+    "opened_date": "2023-04-03",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000004",
+    "customer_id": "CUS-2026-000004",
+    "opened_date": "2021-11-20",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000005",
+    "customer_id": "CUS-2026-000005",
+    "opened_date": "2025-07-26",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "high"
+  },
+  {
+    "account_id": "ACC-2026-000006",
+    "customer_id": "CUS-2026-000006",
+    "opened_date": "2024-05-25",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000007",
+    "customer_id": "CUS-2026-000007",
+    "opened_date": "2026-02-21",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000008",
+    "customer_id": "CUS-2026-000008",
+    "opened_date": "2026-05-01",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000009",
+    "customer_id": "CUS-2026-000009",
+    "opened_date": "2024-11-08",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "high"
+  },
+  {
+    "account_id": "ACC-2026-000010",
+    "customer_id": "CUS-2026-000010",
+    "opened_date": "2026-06-25",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000011",
+    "customer_id": "CUS-2026-000011",
+    "opened_date": "2023-09-06",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "high"
+  },
+  {
+    "account_id": "ACC-2026-000012",
+    "customer_id": "CUS-2026-000012",
+    "opened_date": "2024-12-28",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000013",
+    "customer_id": "CUS-2026-000013",
+    "opened_date": "2025-07-25",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000014",
+    "customer_id": "CUS-2026-000014",
+    "opened_date": "2022-02-17",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000015",
+    "customer_id": "CUS-2026-000015",
+    "opened_date": "2022-02-06",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000016",
+    "customer_id": "CUS-2026-000016",
+    "opened_date": "2023-09-30",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000017",
+    "customer_id": "CUS-2026-000017",
+    "opened_date": "2026-07-01",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000018",
+    "customer_id": "CUS-2026-000018",
+    "opened_date": "2025-05-01",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000019",
+    "customer_id": "CUS-2026-000019",
+    "opened_date": "2024-03-08",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000020",
+    "customer_id": "CUS-2026-000020",
+    "opened_date": "2022-11-24",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000021",
+    "customer_id": "CUS-2026-000021",
+    "opened_date": "2023-11-19",
+    "account_status": "active",
+    "hardship_flag": "true",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000022",
+    "customer_id": "CUS-2026-000022",
+    "opened_date": "2023-09-12",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000023",
+    "customer_id": "CUS-2026-000023",
+    "opened_date": "2026-01-19",
+    "account_status": "active",
+    "hardship_flag": "true",
+    "risk_band": "high"
+  },
+  {
+    "account_id": "ACC-2026-000024",
+    "customer_id": "CUS-2026-000024",
+    "opened_date": "2023-05-28",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000025",
+    "customer_id": "CUS-2026-000025",
+    "opened_date": "2023-06-21",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000026",
+    "customer_id": "CUS-2026-000026",
+    "opened_date": "2022-09-12",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000027",
+    "customer_id": "CUS-2026-000027",
+    "opened_date": "2025-06-08",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000028",
+    "customer_id": "CUS-2026-000028",
+    "opened_date": "2023-11-14",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000029",
+    "customer_id": "CUS-2026-000029",
+    "opened_date": "2022-10-09",
+    "account_status": "active",
+    "hardship_flag": "true",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000030",
+    "customer_id": "CUS-2026-000030",
+    "opened_date": "2026-07-15",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000031",
+    "customer_id": "CUS-2026-000031",
+    "opened_date": "2026-01-13",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000032",
+    "customer_id": "CUS-2026-000032",
+    "opened_date": "2024-05-19",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000033",
+    "customer_id": "CUS-2026-000033",
+    "opened_date": "2025-08-08",
+    "account_status": "active",
+    "hardship_flag": "true",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000034",
+    "customer_id": "CUS-2026-000034",
+    "opened_date": "2024-08-06",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "high"
+  },
+  {
+    "account_id": "ACC-2026-000035",
+    "customer_id": "CUS-2026-000035",
+    "opened_date": "2025-04-12",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000036",
+    "customer_id": "CUS-2026-000036",
+    "opened_date": "2026-01-14",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000037",
+    "customer_id": "CUS-2026-000037",
+    "opened_date": "2024-03-31",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000038",
+    "customer_id": "CUS-2026-000038",
+    "opened_date": "2024-08-01",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000039",
+    "customer_id": "CUS-2026-000039",
+    "opened_date": "2023-07-11",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "high"
+  },
+  {
+    "account_id": "ACC-2026-000040",
+    "customer_id": "CUS-2026-000040",
+    "opened_date": "2026-03-06",
+    "account_status": "active",
+    "hardship_flag": "true",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000041",
+    "customer_id": "CUS-2026-000041",
+    "opened_date": "2026-06-05",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000042",
+    "customer_id": "CUS-2026-000042",
+    "opened_date": "2025-10-05",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "high"
+  },
+  {
+    "account_id": "ACC-2026-000043",
+    "customer_id": "CUS-2026-000043",
+    "opened_date": "2025-09-13",
+    "account_status": "active",
+    "hardship_flag": "true",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000044",
+    "customer_id": "CUS-2026-000044",
+    "opened_date": "2021-12-09",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000045",
+    "customer_id": "CUS-2026-000045",
+    "opened_date": "2025-07-04",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000046",
+    "customer_id": "CUS-2026-000046",
+    "opened_date": "2022-06-27",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000047",
+    "customer_id": "CUS-2026-000047",
+    "opened_date": "2025-09-07",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000048",
+    "customer_id": "CUS-2026-000048",
+    "opened_date": "2022-06-21",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000049",
+    "customer_id": "CUS-2026-000049",
+    "opened_date": "2022-01-21",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000050",
+    "customer_id": "CUS-2026-000050",
+    "opened_date": "2026-01-22",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000051",
+    "customer_id": "CUS-2026-000051",
+    "opened_date": "2025-11-21",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000052",
+    "customer_id": "CUS-2026-000052",
+    "opened_date": "2025-12-07",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "high"
+  },
+  {
+    "account_id": "ACC-2026-000053",
+    "customer_id": "CUS-2026-000053",
+    "opened_date": "2021-11-25",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000054",
+    "customer_id": "CUS-2026-000054",
+    "opened_date": "2022-06-25",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "high"
+  },
+  {
+    "account_id": "ACC-2026-000055",
+    "customer_id": "CUS-2026-000055",
+    "opened_date": "2023-03-01",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000056",
+    "customer_id": "CUS-2026-000056",
+    "opened_date": "2025-08-14",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000057",
+    "customer_id": "CUS-2026-000057",
+    "opened_date": "2023-09-28",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000058",
+    "customer_id": "CUS-2026-000058",
+    "opened_date": "2025-06-10",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000059",
+    "customer_id": "CUS-2026-000059",
+    "opened_date": "2022-03-30",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000060",
+    "customer_id": "CUS-2026-000060",
+    "opened_date": "2023-12-18",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000061",
+    "customer_id": "CUS-2026-000061",
+    "opened_date": "2022-12-16",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000062",
+    "customer_id": "CUS-2026-000062",
+    "opened_date": "2022-04-02",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000063",
+    "customer_id": "CUS-2026-000063",
+    "opened_date": "2024-05-23",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000064",
+    "customer_id": "CUS-2026-000064",
+    "opened_date": "2022-12-14",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000065",
+    "customer_id": "CUS-2026-000065",
+    "opened_date": "2025-06-02",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000066",
+    "customer_id": "CUS-2026-000066",
+    "opened_date": "2024-12-08",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000067",
+    "customer_id": "CUS-2026-000067",
+    "opened_date": "2025-01-29",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000068",
+    "customer_id": "CUS-2026-000068",
+    "opened_date": "2026-03-27",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000069",
+    "customer_id": "CUS-2026-000069",
+    "opened_date": "2022-08-29",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000070",
+    "customer_id": "CUS-2026-000070",
+    "opened_date": "2026-06-09",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000071",
+    "customer_id": "CUS-2026-000071",
+    "opened_date": "2026-02-06",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000072",
+    "customer_id": "CUS-2026-000072",
+    "opened_date": "2023-06-19",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000073",
+    "customer_id": "CUS-2026-000073",
+    "opened_date": "2025-06-23",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000074",
+    "customer_id": "CUS-2026-000074",
+    "opened_date": "2026-05-14",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000075",
+    "customer_id": "CUS-2026-000075",
+    "opened_date": "2023-10-16",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000076",
+    "customer_id": "CUS-2026-000076",
+    "opened_date": "2022-12-20",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000077",
+    "customer_id": "CUS-2026-000077",
+    "opened_date": "2022-01-13",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000078",
+    "customer_id": "CUS-2026-000078",
+    "opened_date": "2024-04-04",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000079",
+    "customer_id": "CUS-2026-000079",
+    "opened_date": "2024-01-09",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000080",
+    "customer_id": "CUS-2026-000080",
+    "opened_date": "2025-05-29",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000081",
+    "customer_id": "CUS-2026-000081",
+    "opened_date": "2022-11-06",
+    "account_status": "active",
+    "hardship_flag": "true",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000082",
+    "customer_id": "CUS-2026-000082",
+    "opened_date": "2021-12-12",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000083",
+    "customer_id": "CUS-2026-000083",
+    "opened_date": "2024-12-09",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000084",
+    "customer_id": "CUS-2026-000084",
+    "opened_date": "2022-05-27",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000085",
+    "customer_id": "CUS-2026-000085",
+    "opened_date": "2024-02-24",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000086",
+    "customer_id": "CUS-2026-000086",
+    "opened_date": "2022-08-26",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000087",
+    "customer_id": "CUS-2026-000087",
+    "opened_date": "2025-08-15",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000088",
+    "customer_id": "CUS-2026-000088",
+    "opened_date": "2025-02-12",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000089",
+    "customer_id": "CUS-2026-000089",
+    "opened_date": "2022-03-03",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000090",
+    "customer_id": "CUS-2026-000090",
+    "opened_date": "2024-05-26",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000091",
+    "customer_id": "CUS-2026-000091",
+    "opened_date": "2022-09-29",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000092",
+    "customer_id": "CUS-2026-000092",
+    "opened_date": "2023-04-01",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000093",
+    "customer_id": "CUS-2026-000093",
+    "opened_date": "2024-08-27",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "low"
+  },
+  {
+    "account_id": "ACC-2026-000094",
+    "customer_id": "CUS-2026-000094",
+    "opened_date": "2024-03-17",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000095",
+    "customer_id": "CUS-2026-000095",
+    "opened_date": "2024-01-09",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "high"
+  },
+  {
+    "account_id": "ACC-2026-000096",
+    "customer_id": "CUS-2026-000096",
+    "opened_date": "2025-03-14",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "high"
+  },
+  {
+    "account_id": "ACC-2026-000097",
+    "customer_id": "CUS-2026-000097",
+    "opened_date": "2024-01-24",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000098",
+    "customer_id": "CUS-2026-000098",
+    "opened_date": "2026-07-22",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "high"
+  },
+  {
+    "account_id": "ACC-2026-000099",
+    "customer_id": "CUS-2026-000099",
+    "opened_date": "2023-02-14",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "medium"
+  },
+  {
+    "account_id": "ACC-2026-000100",
+    "customer_id": "CUS-2026-000100",
+    "opened_date": "2024-07-29",
+    "account_status": "active",
+    "hardship_flag": "false",
+    "risk_band": "high"
+  }
+]

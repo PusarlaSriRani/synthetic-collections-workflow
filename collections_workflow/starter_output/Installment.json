@@ -1,0 +1,3002 @@
+[
+  {
+    "installment_id": "INS-LOAN-2026-000001-001",
+    "loan_id": "LOAN-2026-000001",
+    "installment_number": 1,
+    "due_date": "2026-02-26",
+    "scheduled_amount": 71994.71,
+    "paid_amount": 47385.76,
+    "outstanding_amount": 24608.95,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000001-002",
+    "loan_id": "LOAN-2026-000001",
+    "installment_number": 2,
+    "due_date": "2026-06-26",
+    "scheduled_amount": 71994.71,
+    "paid_amount": 71994.71,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000001-003",
+    "loan_id": "LOAN-2026-000001",
+    "installment_number": 3,
+    "due_date": "2026-10-26",
+    "scheduled_amount": 71994.71,
+    "paid_amount": 0.0,
+    "outstanding_amount": 71994.71,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000002-001",
+    "loan_id": "LOAN-2026-000002",
+    "installment_number": 1,
+    "due_date": "2026-09-11",
+    "scheduled_amount": 124003.14,
+    "paid_amount": 0.0,
+    "outstanding_amount": 124003.14,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000002-002",
+    "loan_id": "LOAN-2026-000002",
+    "installment_number": 2,
+    "due_date": "2027-01-11",
+    "scheduled_amount": 124003.14,
+    "paid_amount": 0.0,
+    "outstanding_amount": 124003.14,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000002-003",
+    "loan_id": "LOAN-2026-000002",
+    "installment_number": 3,
+    "due_date": "2027-05-11",
+    "scheduled_amount": 124003.14,
+    "paid_amount": 0.0,
+    "outstanding_amount": 124003.14,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000003-001",
+    "loan_id": "LOAN-2026-000003",
+    "installment_number": 1,
+    "due_date": "2026-07-08",
+    "scheduled_amount": 51136.68,
+    "paid_amount": 0.0,
+    "outstanding_amount": 51136.68,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000003-002",
+    "loan_id": "LOAN-2026-000003",
+    "installment_number": 2,
+    "due_date": "2026-11-08",
+    "scheduled_amount": 51136.68,
+    "paid_amount": 0.0,
+    "outstanding_amount": 51136.68,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000003-003",
+    "loan_id": "LOAN-2026-000003",
+    "installment_number": 3,
+    "due_date": "2027-03-08",
+    "scheduled_amount": 51136.68,
+    "paid_amount": 0.0,
+    "outstanding_amount": 51136.68,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000004-001",
+    "loan_id": "LOAN-2026-000004",
+    "installment_number": 1,
+    "due_date": "2026-11-06",
+    "scheduled_amount": 101163.51,
+    "paid_amount": 0.0,
+    "outstanding_amount": 101163.51,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000004-002",
+    "loan_id": "LOAN-2026-000004",
+    "installment_number": 2,
+    "due_date": "2027-03-06",
+    "scheduled_amount": 101163.51,
+    "paid_amount": 0.0,
+    "outstanding_amount": 101163.51,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000004-003",
+    "loan_id": "LOAN-2026-000004",
+    "installment_number": 3,
+    "due_date": "2027-07-06",
+    "scheduled_amount": 101163.51,
+    "paid_amount": 0.0,
+    "outstanding_amount": 101163.51,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000005-001",
+    "loan_id": "LOAN-2026-000005",
+    "installment_number": 1,
+    "due_date": "2026-06-03",
+    "scheduled_amount": 35312.32,
+    "paid_amount": 35312.32,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000005-002",
+    "loan_id": "LOAN-2026-000005",
+    "installment_number": 2,
+    "due_date": "2026-10-03",
+    "scheduled_amount": 35312.32,
+    "paid_amount": 0.0,
+    "outstanding_amount": 35312.32,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000005-003",
+    "loan_id": "LOAN-2026-000005",
+    "installment_number": 3,
+    "due_date": "2027-02-03",
+    "scheduled_amount": 35312.32,
+    "paid_amount": 0.0,
+    "outstanding_amount": 35312.32,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000006-001",
+    "loan_id": "LOAN-2026-000006",
+    "installment_number": 1,
+    "due_date": "2025-12-22",
+    "scheduled_amount": 60364.16,
+    "paid_amount": 0.0,
+    "outstanding_amount": 60364.16,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000006-002",
+    "loan_id": "LOAN-2026-000006",
+    "installment_number": 2,
+    "due_date": "2026-04-22",
+    "scheduled_amount": 60364.16,
+    "paid_amount": 30701.99,
+    "outstanding_amount": 29662.17,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000006-003",
+    "loan_id": "LOAN-2026-000006",
+    "installment_number": 3,
+    "due_date": "2026-08-22",
+    "scheduled_amount": 60364.16,
+    "paid_amount": 60364.16,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000007-001",
+    "loan_id": "LOAN-2026-000007",
+    "installment_number": 1,
+    "due_date": "2026-05-22",
+    "scheduled_amount": 97328.08,
+    "paid_amount": 78428.61,
+    "outstanding_amount": 18899.47,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000007-002",
+    "loan_id": "LOAN-2026-000007",
+    "installment_number": 2,
+    "due_date": "2026-09-22",
+    "scheduled_amount": 97328.08,
+    "paid_amount": 0.0,
+    "outstanding_amount": 97328.08,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000007-003",
+    "loan_id": "LOAN-2026-000007",
+    "installment_number": 3,
+    "due_date": "2027-01-22",
+    "scheduled_amount": 97328.08,
+    "paid_amount": 0.0,
+    "outstanding_amount": 97328.08,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000008-001",
+    "loan_id": "LOAN-2026-000008",
+    "installment_number": 1,
+    "due_date": "2026-11-14",
+    "scheduled_amount": 50954.7,
+    "paid_amount": 0.0,
+    "outstanding_amount": 50954.7,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000008-002",
+    "loan_id": "LOAN-2026-000008",
+    "installment_number": 2,
+    "due_date": "2027-03-14",
+    "scheduled_amount": 50954.7,
+    "paid_amount": 0.0,
+    "outstanding_amount": 50954.7,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000008-003",
+    "loan_id": "LOAN-2026-000008",
+    "installment_number": 3,
+    "due_date": "2027-07-14",
+    "scheduled_amount": 50954.7,
+    "paid_amount": 0.0,
+    "outstanding_amount": 50954.7,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000009-001",
+    "loan_id": "LOAN-2026-000009",
+    "installment_number": 1,
+    "due_date": "2026-01-07",
+    "scheduled_amount": 10807.28,
+    "paid_amount": 0.0,
+    "outstanding_amount": 10807.28,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000009-002",
+    "loan_id": "LOAN-2026-000009",
+    "installment_number": 2,
+    "due_date": "2026-05-07",
+    "scheduled_amount": 10807.28,
+    "paid_amount": 0.0,
+    "outstanding_amount": 10807.28,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000009-003",
+    "loan_id": "LOAN-2026-000009",
+    "installment_number": 3,
+    "due_date": "2026-09-07",
+    "scheduled_amount": 10807.28,
+    "paid_amount": 0.0,
+    "outstanding_amount": 10807.28,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000010-001",
+    "loan_id": "LOAN-2026-000010",
+    "installment_number": 1,
+    "due_date": "2026-11-07",
+    "scheduled_amount": 113627.65,
+    "paid_amount": 0.0,
+    "outstanding_amount": 113627.65,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000010-002",
+    "loan_id": "LOAN-2026-000010",
+    "installment_number": 2,
+    "due_date": "2027-03-07",
+    "scheduled_amount": 113627.65,
+    "paid_amount": 0.0,
+    "outstanding_amount": 113627.65,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000010-003",
+    "loan_id": "LOAN-2026-000010",
+    "installment_number": 3,
+    "due_date": "2027-07-07",
+    "scheduled_amount": 113627.65,
+    "paid_amount": 0.0,
+    "outstanding_amount": 113627.65,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000011-001",
+    "loan_id": "LOAN-2026-000011",
+    "installment_number": 1,
+    "due_date": "2026-11-03",
+    "scheduled_amount": 28983.57,
+    "paid_amount": 0.0,
+    "outstanding_amount": 28983.57,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000011-002",
+    "loan_id": "LOAN-2026-000011",
+    "installment_number": 2,
+    "due_date": "2027-03-03",
+    "scheduled_amount": 28983.57,
+    "paid_amount": 0.0,
+    "outstanding_amount": 28983.57,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000011-003",
+    "loan_id": "LOAN-2026-000011",
+    "installment_number": 3,
+    "due_date": "2027-07-03",
+    "scheduled_amount": 28983.57,
+    "paid_amount": 0.0,
+    "outstanding_amount": 28983.57,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000012-001",
+    "loan_id": "LOAN-2026-000012",
+    "installment_number": 1,
+    "due_date": "2026-01-02",
+    "scheduled_amount": 121868.88,
+    "paid_amount": 0.0,
+    "outstanding_amount": 121868.88,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000012-002",
+    "loan_id": "LOAN-2026-000012",
+    "installment_number": 2,
+    "due_date": "2026-05-02",
+    "scheduled_amount": 121868.88,
+    "paid_amount": 71185.67,
+    "outstanding_amount": 50683.21,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000012-003",
+    "loan_id": "LOAN-2026-000012",
+    "installment_number": 3,
+    "due_date": "2026-09-02",
+    "scheduled_amount": 121868.88,
+    "paid_amount": 121868.88,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000013-001",
+    "loan_id": "LOAN-2026-000013",
+    "installment_number": 1,
+    "due_date": "2026-09-24",
+    "scheduled_amount": 153828.07,
+    "paid_amount": 124258.83,
+    "outstanding_amount": 29569.24,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000013-002",
+    "loan_id": "LOAN-2026-000013",
+    "installment_number": 2,
+    "due_date": "2027-01-24",
+    "scheduled_amount": 153828.07,
+    "paid_amount": 0.0,
+    "outstanding_amount": 153828.07,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000013-003",
+    "loan_id": "LOAN-2026-000013",
+    "installment_number": 3,
+    "due_date": "2027-05-24",
+    "scheduled_amount": 153828.07,
+    "paid_amount": 0.0,
+    "outstanding_amount": 153828.07,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000014-001",
+    "loan_id": "LOAN-2026-000014",
+    "installment_number": 1,
+    "due_date": "2026-10-18",
+    "scheduled_amount": 118378.4,
+    "paid_amount": 0.0,
+    "outstanding_amount": 118378.4,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000014-002",
+    "loan_id": "LOAN-2026-000014",
+    "installment_number": 2,
+    "due_date": "2027-02-18",
+    "scheduled_amount": 118378.4,
+    "paid_amount": 0.0,
+    "outstanding_amount": 118378.4,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000014-003",
+    "loan_id": "LOAN-2026-000014",
+    "installment_number": 3,
+    "due_date": "2027-06-18",
+    "scheduled_amount": 118378.4,
+    "paid_amount": 0.0,
+    "outstanding_amount": 118378.4,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000015-001",
+    "loan_id": "LOAN-2026-000015",
+    "installment_number": 1,
+    "due_date": "2026-05-23",
+    "scheduled_amount": 44732.51,
+    "paid_amount": 0.0,
+    "outstanding_amount": 44732.51,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000015-002",
+    "loan_id": "LOAN-2026-000015",
+    "installment_number": 2,
+    "due_date": "2026-09-23",
+    "scheduled_amount": 44732.51,
+    "paid_amount": 44732.51,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000015-003",
+    "loan_id": "LOAN-2026-000015",
+    "installment_number": 3,
+    "due_date": "2027-01-23",
+    "scheduled_amount": 44732.51,
+    "paid_amount": 0.0,
+    "outstanding_amount": 44732.51,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000016-001",
+    "loan_id": "LOAN-2026-000016",
+    "installment_number": 1,
+    "due_date": "2026-07-26",
+    "scheduled_amount": 130936.18,
+    "paid_amount": 0.0,
+    "outstanding_amount": 130936.18,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000016-002",
+    "loan_id": "LOAN-2026-000016",
+    "installment_number": 2,
+    "due_date": "2026-11-26",
+    "scheduled_amount": 130936.18,
+    "paid_amount": 0.0,
+    "outstanding_amount": 130936.18,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000016-003",
+    "loan_id": "LOAN-2026-000016",
+    "installment_number": 3,
+    "due_date": "2027-03-26",
+    "scheduled_amount": 130936.18,
+    "paid_amount": 0.0,
+    "outstanding_amount": 130936.18,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000017-001",
+    "loan_id": "LOAN-2026-000017",
+    "installment_number": 1,
+    "due_date": "2026-10-16",
+    "scheduled_amount": 82871.01,
+    "paid_amount": 32357.64,
+    "outstanding_amount": 50513.37,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000017-002",
+    "loan_id": "LOAN-2026-000017",
+    "installment_number": 2,
+    "due_date": "2027-02-16",
+    "scheduled_amount": 82871.01,
+    "paid_amount": 0.0,
+    "outstanding_amount": 82871.01,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000017-003",
+    "loan_id": "LOAN-2026-000017",
+    "installment_number": 3,
+    "due_date": "2027-06-16",
+    "scheduled_amount": 82871.01,
+    "paid_amount": 0.0,
+    "outstanding_amount": 82871.01,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000018-001",
+    "loan_id": "LOAN-2026-000018",
+    "installment_number": 1,
+    "due_date": "2026-08-15",
+    "scheduled_amount": 41398.36,
+    "paid_amount": 0.0,
+    "outstanding_amount": 41398.36,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000018-002",
+    "loan_id": "LOAN-2026-000018",
+    "installment_number": 2,
+    "due_date": "2026-12-15",
+    "scheduled_amount": 41398.36,
+    "paid_amount": 0.0,
+    "outstanding_amount": 41398.36,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000018-003",
+    "loan_id": "LOAN-2026-000018",
+    "installment_number": 3,
+    "due_date": "2027-04-15",
+    "scheduled_amount": 41398.36,
+    "paid_amount": 0.0,
+    "outstanding_amount": 41398.36,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000019-001",
+    "loan_id": "LOAN-2026-000019",
+    "installment_number": 1,
+    "due_date": "2026-02-09",
+    "scheduled_amount": 61790.74,
+    "paid_amount": 61790.74,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000019-002",
+    "loan_id": "LOAN-2026-000019",
+    "installment_number": 2,
+    "due_date": "2026-06-09",
+    "scheduled_amount": 61790.74,
+    "paid_amount": 61790.74,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000019-003",
+    "loan_id": "LOAN-2026-000019",
+    "installment_number": 3,
+    "due_date": "2026-10-09",
+    "scheduled_amount": 61790.74,
+    "paid_amount": 61790.74,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000020-001",
+    "loan_id": "LOAN-2026-000020",
+    "installment_number": 1,
+    "due_date": "2026-08-06",
+    "scheduled_amount": 35561.54,
+    "paid_amount": 35561.54,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000020-002",
+    "loan_id": "LOAN-2026-000020",
+    "installment_number": 2,
+    "due_date": "2026-12-06",
+    "scheduled_amount": 35561.54,
+    "paid_amount": 0.0,
+    "outstanding_amount": 35561.54,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000020-003",
+    "loan_id": "LOAN-2026-000020",
+    "installment_number": 3,
+    "due_date": "2027-04-06",
+    "scheduled_amount": 35561.54,
+    "paid_amount": 0.0,
+    "outstanding_amount": 35561.54,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000021-001",
+    "loan_id": "LOAN-2026-000021",
+    "installment_number": 1,
+    "due_date": "2026-08-18",
+    "scheduled_amount": 142566.52,
+    "paid_amount": 0.0,
+    "outstanding_amount": 142566.52,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000021-002",
+    "loan_id": "LOAN-2026-000021",
+    "installment_number": 2,
+    "due_date": "2026-12-18",
+    "scheduled_amount": 142566.52,
+    "paid_amount": 0.0,
+    "outstanding_amount": 142566.52,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000021-003",
+    "loan_id": "LOAN-2026-000021",
+    "installment_number": 3,
+    "due_date": "2027-04-18",
+    "scheduled_amount": 142566.52,
+    "paid_amount": 0.0,
+    "outstanding_amount": 142566.52,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000022-001",
+    "loan_id": "LOAN-2026-000022",
+    "installment_number": 1,
+    "due_date": "2026-01-02",
+    "scheduled_amount": 145860.56,
+    "paid_amount": 0.0,
+    "outstanding_amount": 145860.56,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000022-002",
+    "loan_id": "LOAN-2026-000022",
+    "installment_number": 2,
+    "due_date": "2026-05-02",
+    "scheduled_amount": 145860.56,
+    "paid_amount": 145860.56,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000022-003",
+    "loan_id": "LOAN-2026-000022",
+    "installment_number": 3,
+    "due_date": "2026-09-02",
+    "scheduled_amount": 145860.56,
+    "paid_amount": 145860.56,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000023-001",
+    "loan_id": "LOAN-2026-000023",
+    "installment_number": 1,
+    "due_date": "2026-10-14",
+    "scheduled_amount": 170178.65,
+    "paid_amount": 52668.44,
+    "outstanding_amount": 117510.21,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000023-002",
+    "loan_id": "LOAN-2026-000023",
+    "installment_number": 2,
+    "due_date": "2027-02-14",
+    "scheduled_amount": 170178.65,
+    "paid_amount": 0.0,
+    "outstanding_amount": 170178.65,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000023-003",
+    "loan_id": "LOAN-2026-000023",
+    "installment_number": 3,
+    "due_date": "2027-06-14",
+    "scheduled_amount": 170178.65,
+    "paid_amount": 0.0,
+    "outstanding_amount": 170178.65,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000024-001",
+    "loan_id": "LOAN-2026-000024",
+    "installment_number": 1,
+    "due_date": "2026-08-05",
+    "scheduled_amount": 100699.32,
+    "paid_amount": 100699.32,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000024-002",
+    "loan_id": "LOAN-2026-000024",
+    "installment_number": 2,
+    "due_date": "2026-12-05",
+    "scheduled_amount": 100699.32,
+    "paid_amount": 0.0,
+    "outstanding_amount": 100699.32,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000024-003",
+    "loan_id": "LOAN-2026-000024",
+    "installment_number": 3,
+    "due_date": "2027-04-05",
+    "scheduled_amount": 100699.32,
+    "paid_amount": 0.0,
+    "outstanding_amount": 100699.32,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000025-001",
+    "loan_id": "LOAN-2026-000025",
+    "installment_number": 1,
+    "due_date": "2026-05-01",
+    "scheduled_amount": 134990.11,
+    "paid_amount": 41862.53,
+    "outstanding_amount": 93127.58,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000025-002",
+    "loan_id": "LOAN-2026-000025",
+    "installment_number": 2,
+    "due_date": "2026-09-01",
+    "scheduled_amount": 134990.11,
+    "paid_amount": 134990.11,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000025-003",
+    "loan_id": "LOAN-2026-000025",
+    "installment_number": 3,
+    "due_date": "2027-01-01",
+    "scheduled_amount": 134990.11,
+    "paid_amount": 0.0,
+    "outstanding_amount": 134990.11,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000026-001",
+    "loan_id": "LOAN-2026-000026",
+    "installment_number": 1,
+    "due_date": "2026-03-09",
+    "scheduled_amount": 40232.24,
+    "paid_amount": 40232.24,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000026-002",
+    "loan_id": "LOAN-2026-000026",
+    "installment_number": 2,
+    "due_date": "2026-07-09",
+    "scheduled_amount": 40232.24,
+    "paid_amount": 40232.24,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000026-003",
+    "loan_id": "LOAN-2026-000026",
+    "installment_number": 3,
+    "due_date": "2026-11-09",
+    "scheduled_amount": 40232.24,
+    "paid_amount": 0.0,
+    "outstanding_amount": 40232.24,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000027-001",
+    "loan_id": "LOAN-2026-000027",
+    "installment_number": 1,
+    "due_date": "2025-12-04",
+    "scheduled_amount": 125458.81,
+    "paid_amount": 125458.81,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000027-002",
+    "loan_id": "LOAN-2026-000027",
+    "installment_number": 2,
+    "due_date": "2026-04-04",
+    "scheduled_amount": 125458.81,
+    "paid_amount": 0.0,
+    "outstanding_amount": 125458.81,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000027-003",
+    "loan_id": "LOAN-2026-000027",
+    "installment_number": 3,
+    "due_date": "2026-08-04",
+    "scheduled_amount": 125458.81,
+    "paid_amount": 125458.81,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000028-001",
+    "loan_id": "LOAN-2026-000028",
+    "installment_number": 1,
+    "due_date": "2026-02-05",
+    "scheduled_amount": 27033.09,
+    "paid_amount": 27033.09,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000028-002",
+    "loan_id": "LOAN-2026-000028",
+    "installment_number": 2,
+    "due_date": "2026-06-05",
+    "scheduled_amount": 27033.09,
+    "paid_amount": 27033.09,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000028-003",
+    "loan_id": "LOAN-2026-000028",
+    "installment_number": 3,
+    "due_date": "2026-10-05",
+    "scheduled_amount": 27033.09,
+    "paid_amount": 27033.09,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000029-001",
+    "loan_id": "LOAN-2026-000029",
+    "installment_number": 1,
+    "due_date": "2026-09-07",
+    "scheduled_amount": 131117.43,
+    "paid_amount": 131117.43,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000029-002",
+    "loan_id": "LOAN-2026-000029",
+    "installment_number": 2,
+    "due_date": "2027-01-07",
+    "scheduled_amount": 131117.43,
+    "paid_amount": 0.0,
+    "outstanding_amount": 131117.43,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000029-003",
+    "loan_id": "LOAN-2026-000029",
+    "installment_number": 3,
+    "due_date": "2027-05-07",
+    "scheduled_amount": 131117.43,
+    "paid_amount": 0.0,
+    "outstanding_amount": 131117.43,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000030-001",
+    "loan_id": "LOAN-2026-000030",
+    "installment_number": 1,
+    "due_date": "2026-07-31",
+    "scheduled_amount": 148127.39,
+    "paid_amount": 0.0,
+    "outstanding_amount": 148127.39,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000030-002",
+    "loan_id": "LOAN-2026-000030",
+    "installment_number": 2,
+    "due_date": "2026-11-30",
+    "scheduled_amount": 148127.39,
+    "paid_amount": 0.0,
+    "outstanding_amount": 148127.39,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000030-003",
+    "loan_id": "LOAN-2026-000030",
+    "installment_number": 3,
+    "due_date": "2027-03-31",
+    "scheduled_amount": 148127.39,
+    "paid_amount": 0.0,
+    "outstanding_amount": 148127.39,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000031-001",
+    "loan_id": "LOAN-2026-000031",
+    "installment_number": 1,
+    "due_date": "2026-02-24",
+    "scheduled_amount": 38305.77,
+    "paid_amount": 0.0,
+    "outstanding_amount": 38305.77,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000031-002",
+    "loan_id": "LOAN-2026-000031",
+    "installment_number": 2,
+    "due_date": "2026-06-24",
+    "scheduled_amount": 38305.77,
+    "paid_amount": 30197.86,
+    "outstanding_amount": 8107.91,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000031-003",
+    "loan_id": "LOAN-2026-000031",
+    "installment_number": 3,
+    "due_date": "2026-10-24",
+    "scheduled_amount": 38305.77,
+    "paid_amount": 0.0,
+    "outstanding_amount": 38305.77,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000032-001",
+    "loan_id": "LOAN-2026-000032",
+    "installment_number": 1,
+    "due_date": "2026-04-07",
+    "scheduled_amount": 84528.99,
+    "paid_amount": 0.0,
+    "outstanding_amount": 84528.99,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000032-002",
+    "loan_id": "LOAN-2026-000032",
+    "installment_number": 2,
+    "due_date": "2026-08-07",
+    "scheduled_amount": 84528.99,
+    "paid_amount": 0.0,
+    "outstanding_amount": 84528.99,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000032-003",
+    "loan_id": "LOAN-2026-000032",
+    "installment_number": 3,
+    "due_date": "2026-12-07",
+    "scheduled_amount": 84528.99,
+    "paid_amount": 0.0,
+    "outstanding_amount": 84528.99,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000033-001",
+    "loan_id": "LOAN-2026-000033",
+    "installment_number": 1,
+    "due_date": "2026-10-23",
+    "scheduled_amount": 19651.49,
+    "paid_amount": 0.0,
+    "outstanding_amount": 19651.49,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000033-002",
+    "loan_id": "LOAN-2026-000033",
+    "installment_number": 2,
+    "due_date": "2027-02-23",
+    "scheduled_amount": 19651.49,
+    "paid_amount": 0.0,
+    "outstanding_amount": 19651.49,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000033-003",
+    "loan_id": "LOAN-2026-000033",
+    "installment_number": 3,
+    "due_date": "2027-06-23",
+    "scheduled_amount": 19651.49,
+    "paid_amount": 0.0,
+    "outstanding_amount": 19651.49,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000034-001",
+    "loan_id": "LOAN-2026-000034",
+    "installment_number": 1,
+    "due_date": "2026-11-13",
+    "scheduled_amount": 43491.94,
+    "paid_amount": 0.0,
+    "outstanding_amount": 43491.94,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000034-002",
+    "loan_id": "LOAN-2026-000034",
+    "installment_number": 2,
+    "due_date": "2027-03-13",
+    "scheduled_amount": 43491.94,
+    "paid_amount": 0.0,
+    "outstanding_amount": 43491.94,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000034-003",
+    "loan_id": "LOAN-2026-000034",
+    "installment_number": 3,
+    "due_date": "2027-07-13",
+    "scheduled_amount": 43491.94,
+    "paid_amount": 0.0,
+    "outstanding_amount": 43491.94,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000035-001",
+    "loan_id": "LOAN-2026-000035",
+    "installment_number": 1,
+    "due_date": "2026-01-11",
+    "scheduled_amount": 159640.31,
+    "paid_amount": 0.0,
+    "outstanding_amount": 159640.31,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000035-002",
+    "loan_id": "LOAN-2026-000035",
+    "installment_number": 2,
+    "due_date": "2026-05-11",
+    "scheduled_amount": 159640.31,
+    "paid_amount": 159640.31,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000035-003",
+    "loan_id": "LOAN-2026-000035",
+    "installment_number": 3,
+    "due_date": "2026-09-11",
+    "scheduled_amount": 159640.31,
+    "paid_amount": 159640.31,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000036-001",
+    "loan_id": "LOAN-2026-000036",
+    "installment_number": 1,
+    "due_date": "2026-05-20",
+    "scheduled_amount": 25738.37,
+    "paid_amount": 25738.37,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000036-002",
+    "loan_id": "LOAN-2026-000036",
+    "installment_number": 2,
+    "due_date": "2026-09-20",
+    "scheduled_amount": 25738.37,
+    "paid_amount": 0.0,
+    "outstanding_amount": 25738.37,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000036-003",
+    "loan_id": "LOAN-2026-000036",
+    "installment_number": 3,
+    "due_date": "2027-01-20",
+    "scheduled_amount": 25738.37,
+    "paid_amount": 0.0,
+    "outstanding_amount": 25738.37,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000037-001",
+    "loan_id": "LOAN-2026-000037",
+    "installment_number": 1,
+    "due_date": "2025-12-14",
+    "scheduled_amount": 92850.42,
+    "paid_amount": 92850.42,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000037-002",
+    "loan_id": "LOAN-2026-000037",
+    "installment_number": 2,
+    "due_date": "2026-04-14",
+    "scheduled_amount": 92850.42,
+    "paid_amount": 92850.42,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000037-003",
+    "loan_id": "LOAN-2026-000037",
+    "installment_number": 3,
+    "due_date": "2026-08-14",
+    "scheduled_amount": 92850.42,
+    "paid_amount": 0.0,
+    "outstanding_amount": 92850.42,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000038-001",
+    "loan_id": "LOAN-2026-000038",
+    "installment_number": 1,
+    "due_date": "2026-04-25",
+    "scheduled_amount": 109482.01,
+    "paid_amount": 109482.01,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000038-002",
+    "loan_id": "LOAN-2026-000038",
+    "installment_number": 2,
+    "due_date": "2026-08-25",
+    "scheduled_amount": 109482.01,
+    "paid_amount": 109482.01,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000038-003",
+    "loan_id": "LOAN-2026-000038",
+    "installment_number": 3,
+    "due_date": "2026-12-25",
+    "scheduled_amount": 109482.01,
+    "paid_amount": 0.0,
+    "outstanding_amount": 109482.01,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000039-001",
+    "loan_id": "LOAN-2026-000039",
+    "installment_number": 1,
+    "due_date": "2026-08-12",
+    "scheduled_amount": 125556.62,
+    "paid_amount": 0.0,
+    "outstanding_amount": 125556.62,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000039-002",
+    "loan_id": "LOAN-2026-000039",
+    "installment_number": 2,
+    "due_date": "2026-12-12",
+    "scheduled_amount": 125556.62,
+    "paid_amount": 0.0,
+    "outstanding_amount": 125556.62,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000039-003",
+    "loan_id": "LOAN-2026-000039",
+    "installment_number": 3,
+    "due_date": "2027-04-12",
+    "scheduled_amount": 125556.62,
+    "paid_amount": 0.0,
+    "outstanding_amount": 125556.62,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000040-001",
+    "loan_id": "LOAN-2026-000040",
+    "installment_number": 1,
+    "due_date": "2025-12-20",
+    "scheduled_amount": 85741.14,
+    "paid_amount": 85741.14,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000040-002",
+    "loan_id": "LOAN-2026-000040",
+    "installment_number": 2,
+    "due_date": "2026-04-20",
+    "scheduled_amount": 85741.14,
+    "paid_amount": 51228.62,
+    "outstanding_amount": 34512.52,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000040-003",
+    "loan_id": "LOAN-2026-000040",
+    "installment_number": 3,
+    "due_date": "2026-08-20",
+    "scheduled_amount": 85741.14,
+    "paid_amount": 0.0,
+    "outstanding_amount": 85741.14,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000041-001",
+    "loan_id": "LOAN-2026-000041",
+    "installment_number": 1,
+    "due_date": "2026-02-18",
+    "scheduled_amount": 76561.13,
+    "paid_amount": 76561.13,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000041-002",
+    "loan_id": "LOAN-2026-000041",
+    "installment_number": 2,
+    "due_date": "2026-06-18",
+    "scheduled_amount": 76561.13,
+    "paid_amount": 0.0,
+    "outstanding_amount": 76561.13,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000041-003",
+    "loan_id": "LOAN-2026-000041",
+    "installment_number": 3,
+    "due_date": "2026-10-18",
+    "scheduled_amount": 76561.13,
+    "paid_amount": 76561.13,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000042-001",
+    "loan_id": "LOAN-2026-000042",
+    "installment_number": 1,
+    "due_date": "2026-03-19",
+    "scheduled_amount": 91860.22,
+    "paid_amount": 91860.22,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000042-002",
+    "loan_id": "LOAN-2026-000042",
+    "installment_number": 2,
+    "due_date": "2026-07-19",
+    "scheduled_amount": 91860.22,
+    "paid_amount": 0.0,
+    "outstanding_amount": 91860.22,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000042-003",
+    "loan_id": "LOAN-2026-000042",
+    "installment_number": 3,
+    "due_date": "2026-11-19",
+    "scheduled_amount": 91860.22,
+    "paid_amount": 0.0,
+    "outstanding_amount": 91860.22,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000043-001",
+    "loan_id": "LOAN-2026-000043",
+    "installment_number": 1,
+    "due_date": "2026-08-29",
+    "scheduled_amount": 98002.25,
+    "paid_amount": 98002.25,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000043-002",
+    "loan_id": "LOAN-2026-000043",
+    "installment_number": 2,
+    "due_date": "2026-12-29",
+    "scheduled_amount": 98002.25,
+    "paid_amount": 0.0,
+    "outstanding_amount": 98002.25,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000043-003",
+    "loan_id": "LOAN-2026-000043",
+    "installment_number": 3,
+    "due_date": "2027-04-29",
+    "scheduled_amount": 98002.25,
+    "paid_amount": 0.0,
+    "outstanding_amount": 98002.25,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000044-001",
+    "loan_id": "LOAN-2026-000044",
+    "installment_number": 1,
+    "due_date": "2026-04-24",
+    "scheduled_amount": 121277.61,
+    "paid_amount": 26835.1,
+    "outstanding_amount": 94442.51,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000044-002",
+    "loan_id": "LOAN-2026-000044",
+    "installment_number": 2,
+    "due_date": "2026-08-24",
+    "scheduled_amount": 121277.61,
+    "paid_amount": 0.0,
+    "outstanding_amount": 121277.61,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000044-003",
+    "loan_id": "LOAN-2026-000044",
+    "installment_number": 3,
+    "due_date": "2026-12-24",
+    "scheduled_amount": 121277.61,
+    "paid_amount": 0.0,
+    "outstanding_amount": 121277.61,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000045-001",
+    "loan_id": "LOAN-2026-000045",
+    "installment_number": 1,
+    "due_date": "2026-06-11",
+    "scheduled_amount": 133624.32,
+    "paid_amount": 0.0,
+    "outstanding_amount": 133624.32,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000045-002",
+    "loan_id": "LOAN-2026-000045",
+    "installment_number": 2,
+    "due_date": "2026-10-11",
+    "scheduled_amount": 133624.32,
+    "paid_amount": 133624.32,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000045-003",
+    "loan_id": "LOAN-2026-000045",
+    "installment_number": 3,
+    "due_date": "2027-02-11",
+    "scheduled_amount": 133624.32,
+    "paid_amount": 0.0,
+    "outstanding_amount": 133624.32,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000046-001",
+    "loan_id": "LOAN-2026-000046",
+    "installment_number": 1,
+    "due_date": "2025-12-15",
+    "scheduled_amount": 116578.0,
+    "paid_amount": 0.0,
+    "outstanding_amount": 116578.0,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000046-002",
+    "loan_id": "LOAN-2026-000046",
+    "installment_number": 2,
+    "due_date": "2026-04-15",
+    "scheduled_amount": 116578.0,
+    "paid_amount": 0.0,
+    "outstanding_amount": 116578.0,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000046-003",
+    "loan_id": "LOAN-2026-000046",
+    "installment_number": 3,
+    "due_date": "2026-08-15",
+    "scheduled_amount": 116578.0,
+    "paid_amount": 88983.95,
+    "outstanding_amount": 27594.05,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000047-001",
+    "loan_id": "LOAN-2026-000047",
+    "installment_number": 1,
+    "due_date": "2026-02-12",
+    "scheduled_amount": 11797.81,
+    "paid_amount": 11797.81,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000047-002",
+    "loan_id": "LOAN-2026-000047",
+    "installment_number": 2,
+    "due_date": "2026-06-12",
+    "scheduled_amount": 11797.81,
+    "paid_amount": 11797.81,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000047-003",
+    "loan_id": "LOAN-2026-000047",
+    "installment_number": 3,
+    "due_date": "2026-10-12",
+    "scheduled_amount": 11797.81,
+    "paid_amount": 5654.34,
+    "outstanding_amount": 6143.47,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000048-001",
+    "loan_id": "LOAN-2026-000048",
+    "installment_number": 1,
+    "due_date": "2026-01-21",
+    "scheduled_amount": 18238.02,
+    "paid_amount": 0.0,
+    "outstanding_amount": 18238.02,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000048-002",
+    "loan_id": "LOAN-2026-000048",
+    "installment_number": 2,
+    "due_date": "2026-05-21",
+    "scheduled_amount": 18238.02,
+    "paid_amount": 18238.02,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000048-003",
+    "loan_id": "LOAN-2026-000048",
+    "installment_number": 3,
+    "due_date": "2026-09-21",
+    "scheduled_amount": 18238.02,
+    "paid_amount": 18238.02,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000049-001",
+    "loan_id": "LOAN-2026-000049",
+    "installment_number": 1,
+    "due_date": "2026-07-15",
+    "scheduled_amount": 106521.17,
+    "paid_amount": 0.0,
+    "outstanding_amount": 106521.17,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000049-002",
+    "loan_id": "LOAN-2026-000049",
+    "installment_number": 2,
+    "due_date": "2026-11-15",
+    "scheduled_amount": 106521.17,
+    "paid_amount": 0.0,
+    "outstanding_amount": 106521.17,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000049-003",
+    "loan_id": "LOAN-2026-000049",
+    "installment_number": 3,
+    "due_date": "2027-03-15",
+    "scheduled_amount": 106521.17,
+    "paid_amount": 0.0,
+    "outstanding_amount": 106521.17,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000050-001",
+    "loan_id": "LOAN-2026-000050",
+    "installment_number": 1,
+    "due_date": "2026-01-17",
+    "scheduled_amount": 75576.73,
+    "paid_amount": 75576.73,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000050-002",
+    "loan_id": "LOAN-2026-000050",
+    "installment_number": 2,
+    "due_date": "2026-05-17",
+    "scheduled_amount": 75576.73,
+    "paid_amount": 75576.73,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000050-003",
+    "loan_id": "LOAN-2026-000050",
+    "installment_number": 3,
+    "due_date": "2026-09-17",
+    "scheduled_amount": 75576.73,
+    "paid_amount": 0.0,
+    "outstanding_amount": 75576.73,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000051-001",
+    "loan_id": "LOAN-2026-000051",
+    "installment_number": 1,
+    "due_date": "2026-09-06",
+    "scheduled_amount": 43930.19,
+    "paid_amount": 43930.19,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000051-002",
+    "loan_id": "LOAN-2026-000051",
+    "installment_number": 2,
+    "due_date": "2027-01-06",
+    "scheduled_amount": 43930.19,
+    "paid_amount": 0.0,
+    "outstanding_amount": 43930.19,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000051-003",
+    "loan_id": "LOAN-2026-000051",
+    "installment_number": 3,
+    "due_date": "2027-05-06",
+    "scheduled_amount": 43930.19,
+    "paid_amount": 0.0,
+    "outstanding_amount": 43930.19,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000052-001",
+    "loan_id": "LOAN-2026-000052",
+    "installment_number": 1,
+    "due_date": "2026-09-09",
+    "scheduled_amount": 102705.98,
+    "paid_amount": 0.0,
+    "outstanding_amount": 102705.98,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000052-002",
+    "loan_id": "LOAN-2026-000052",
+    "installment_number": 2,
+    "due_date": "2027-01-09",
+    "scheduled_amount": 102705.98,
+    "paid_amount": 0.0,
+    "outstanding_amount": 102705.98,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000052-003",
+    "loan_id": "LOAN-2026-000052",
+    "installment_number": 3,
+    "due_date": "2027-05-09",
+    "scheduled_amount": 102705.98,
+    "paid_amount": 0.0,
+    "outstanding_amount": 102705.98,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000053-001",
+    "loan_id": "LOAN-2026-000053",
+    "installment_number": 1,
+    "due_date": "2026-07-15",
+    "scheduled_amount": 78285.35,
+    "paid_amount": 78285.35,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000053-002",
+    "loan_id": "LOAN-2026-000053",
+    "installment_number": 2,
+    "due_date": "2026-11-15",
+    "scheduled_amount": 78285.35,
+    "paid_amount": 0.0,
+    "outstanding_amount": 78285.35,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000053-003",
+    "loan_id": "LOAN-2026-000053",
+    "installment_number": 3,
+    "due_date": "2027-03-15",
+    "scheduled_amount": 78285.35,
+    "paid_amount": 0.0,
+    "outstanding_amount": 78285.35,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000054-001",
+    "loan_id": "LOAN-2026-000054",
+    "installment_number": 1,
+    "due_date": "2026-03-04",
+    "scheduled_amount": 122757.45,
+    "paid_amount": 0.0,
+    "outstanding_amount": 122757.45,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000054-002",
+    "loan_id": "LOAN-2026-000054",
+    "installment_number": 2,
+    "due_date": "2026-07-04",
+    "scheduled_amount": 122757.45,
+    "paid_amount": 122757.45,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000054-003",
+    "loan_id": "LOAN-2026-000054",
+    "installment_number": 3,
+    "due_date": "2026-11-04",
+    "scheduled_amount": 122757.45,
+    "paid_amount": 0.0,
+    "outstanding_amount": 122757.45,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000055-001",
+    "loan_id": "LOAN-2026-000055",
+    "installment_number": 1,
+    "due_date": "2026-06-28",
+    "scheduled_amount": 106546.98,
+    "paid_amount": 106546.98,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000055-002",
+    "loan_id": "LOAN-2026-000055",
+    "installment_number": 2,
+    "due_date": "2026-10-28",
+    "scheduled_amount": 106546.98,
+    "paid_amount": 0.0,
+    "outstanding_amount": 106546.98,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000055-003",
+    "loan_id": "LOAN-2026-000055",
+    "installment_number": 3,
+    "due_date": "2027-02-28",
+    "scheduled_amount": 106546.98,
+    "paid_amount": 0.0,
+    "outstanding_amount": 106546.98,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000056-001",
+    "loan_id": "LOAN-2026-000056",
+    "installment_number": 1,
+    "due_date": "2026-02-03",
+    "scheduled_amount": 99180.83,
+    "paid_amount": 78156.18,
+    "outstanding_amount": 21024.65,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000056-002",
+    "loan_id": "LOAN-2026-000056",
+    "installment_number": 2,
+    "due_date": "2026-06-03",
+    "scheduled_amount": 99180.83,
+    "paid_amount": 0.0,
+    "outstanding_amount": 99180.83,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000056-003",
+    "loan_id": "LOAN-2026-000056",
+    "installment_number": 3,
+    "due_date": "2026-10-03",
+    "scheduled_amount": 99180.83,
+    "paid_amount": 0.0,
+    "outstanding_amount": 99180.83,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000057-001",
+    "loan_id": "LOAN-2026-000057",
+    "installment_number": 1,
+    "due_date": "2025-12-07",
+    "scheduled_amount": 134851.79,
+    "paid_amount": 134851.79,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000057-002",
+    "loan_id": "LOAN-2026-000057",
+    "installment_number": 2,
+    "due_date": "2026-04-07",
+    "scheduled_amount": 134851.79,
+    "paid_amount": 0.0,
+    "outstanding_amount": 134851.79,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000057-003",
+    "loan_id": "LOAN-2026-000057",
+    "installment_number": 3,
+    "due_date": "2026-08-07",
+    "scheduled_amount": 134851.79,
+    "paid_amount": 134851.79,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000058-001",
+    "loan_id": "LOAN-2026-000058",
+    "installment_number": 1,
+    "due_date": "2026-07-29",
+    "scheduled_amount": 117934.58,
+    "paid_amount": 70393.12,
+    "outstanding_amount": 47541.46,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000058-002",
+    "loan_id": "LOAN-2026-000058",
+    "installment_number": 2,
+    "due_date": "2026-11-29",
+    "scheduled_amount": 117934.58,
+    "paid_amount": 0.0,
+    "outstanding_amount": 117934.58,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000058-003",
+    "loan_id": "LOAN-2026-000058",
+    "installment_number": 3,
+    "due_date": "2027-03-29",
+    "scheduled_amount": 117934.58,
+    "paid_amount": 0.0,
+    "outstanding_amount": 117934.58,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000059-001",
+    "loan_id": "LOAN-2026-000059",
+    "installment_number": 1,
+    "due_date": "2026-05-18",
+    "scheduled_amount": 91626.09,
+    "paid_amount": 91626.09,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000059-002",
+    "loan_id": "LOAN-2026-000059",
+    "installment_number": 2,
+    "due_date": "2026-09-18",
+    "scheduled_amount": 91626.09,
+    "paid_amount": 91626.09,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000059-003",
+    "loan_id": "LOAN-2026-000059",
+    "installment_number": 3,
+    "due_date": "2027-01-18",
+    "scheduled_amount": 91626.09,
+    "paid_amount": 0.0,
+    "outstanding_amount": 91626.09,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000060-001",
+    "loan_id": "LOAN-2026-000060",
+    "installment_number": 1,
+    "due_date": "2026-09-18",
+    "scheduled_amount": 86275.67,
+    "paid_amount": 0.0,
+    "outstanding_amount": 86275.67,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000060-002",
+    "loan_id": "LOAN-2026-000060",
+    "installment_number": 2,
+    "due_date": "2027-01-18",
+    "scheduled_amount": 86275.67,
+    "paid_amount": 0.0,
+    "outstanding_amount": 86275.67,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000060-003",
+    "loan_id": "LOAN-2026-000060",
+    "installment_number": 3,
+    "due_date": "2027-05-18",
+    "scheduled_amount": 86275.67,
+    "paid_amount": 0.0,
+    "outstanding_amount": 86275.67,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000061-001",
+    "loan_id": "LOAN-2026-000061",
+    "installment_number": 1,
+    "due_date": "2026-06-07",
+    "scheduled_amount": 63224.6,
+    "paid_amount": 63224.6,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000061-002",
+    "loan_id": "LOAN-2026-000061",
+    "installment_number": 2,
+    "due_date": "2026-10-07",
+    "scheduled_amount": 63224.6,
+    "paid_amount": 63224.6,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000061-003",
+    "loan_id": "LOAN-2026-000061",
+    "installment_number": 3,
+    "due_date": "2027-02-07",
+    "scheduled_amount": 63224.6,
+    "paid_amount": 0.0,
+    "outstanding_amount": 63224.6,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000062-001",
+    "loan_id": "LOAN-2026-000062",
+    "installment_number": 1,
+    "due_date": "2026-08-24",
+    "scheduled_amount": 49201.07,
+    "paid_amount": 49201.07,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000062-002",
+    "loan_id": "LOAN-2026-000062",
+    "installment_number": 2,
+    "due_date": "2026-12-24",
+    "scheduled_amount": 49201.07,
+    "paid_amount": 0.0,
+    "outstanding_amount": 49201.07,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000062-003",
+    "loan_id": "LOAN-2026-000062",
+    "installment_number": 3,
+    "due_date": "2027-04-24",
+    "scheduled_amount": 49201.07,
+    "paid_amount": 0.0,
+    "outstanding_amount": 49201.07,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000063-001",
+    "loan_id": "LOAN-2026-000063",
+    "installment_number": 1,
+    "due_date": "2026-11-07",
+    "scheduled_amount": 14501.99,
+    "paid_amount": 0.0,
+    "outstanding_amount": 14501.99,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000063-002",
+    "loan_id": "LOAN-2026-000063",
+    "installment_number": 2,
+    "due_date": "2027-03-07",
+    "scheduled_amount": 14501.99,
+    "paid_amount": 0.0,
+    "outstanding_amount": 14501.99,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000063-003",
+    "loan_id": "LOAN-2026-000063",
+    "installment_number": 3,
+    "due_date": "2027-07-07",
+    "scheduled_amount": 14501.99,
+    "paid_amount": 0.0,
+    "outstanding_amount": 14501.99,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000064-001",
+    "loan_id": "LOAN-2026-000064",
+    "installment_number": 1,
+    "due_date": "2026-06-19",
+    "scheduled_amount": 75142.98,
+    "paid_amount": 0.0,
+    "outstanding_amount": 75142.98,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000064-002",
+    "loan_id": "LOAN-2026-000064",
+    "installment_number": 2,
+    "due_date": "2026-10-19",
+    "scheduled_amount": 75142.98,
+    "paid_amount": 36099.79,
+    "outstanding_amount": 39043.19,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000064-003",
+    "loan_id": "LOAN-2026-000064",
+    "installment_number": 3,
+    "due_date": "2027-02-19",
+    "scheduled_amount": 75142.98,
+    "paid_amount": 0.0,
+    "outstanding_amount": 75142.98,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000065-001",
+    "loan_id": "LOAN-2026-000065",
+    "installment_number": 1,
+    "due_date": "2026-09-09",
+    "scheduled_amount": 154026.24,
+    "paid_amount": 154026.24,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000065-002",
+    "loan_id": "LOAN-2026-000065",
+    "installment_number": 2,
+    "due_date": "2027-01-09",
+    "scheduled_amount": 154026.24,
+    "paid_amount": 0.0,
+    "outstanding_amount": 154026.24,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000065-003",
+    "loan_id": "LOAN-2026-000065",
+    "installment_number": 3,
+    "due_date": "2027-05-09",
+    "scheduled_amount": 154026.24,
+    "paid_amount": 0.0,
+    "outstanding_amount": 154026.24,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000066-001",
+    "loan_id": "LOAN-2026-000066",
+    "installment_number": 1,
+    "due_date": "2026-10-28",
+    "scheduled_amount": 157432.49,
+    "paid_amount": 0.0,
+    "outstanding_amount": 157432.49,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000066-002",
+    "loan_id": "LOAN-2026-000066",
+    "installment_number": 2,
+    "due_date": "2027-02-28",
+    "scheduled_amount": 157432.49,
+    "paid_amount": 0.0,
+    "outstanding_amount": 157432.49,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000066-003",
+    "loan_id": "LOAN-2026-000066",
+    "installment_number": 3,
+    "due_date": "2027-06-28",
+    "scheduled_amount": 157432.49,
+    "paid_amount": 0.0,
+    "outstanding_amount": 157432.49,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000067-001",
+    "loan_id": "LOAN-2026-000067",
+    "installment_number": 1,
+    "due_date": "2026-05-23",
+    "scheduled_amount": 139510.01,
+    "paid_amount": 0.0,
+    "outstanding_amount": 139510.01,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000067-002",
+    "loan_id": "LOAN-2026-000067",
+    "installment_number": 2,
+    "due_date": "2026-09-23",
+    "scheduled_amount": 139510.01,
+    "paid_amount": 0.0,
+    "outstanding_amount": 139510.01,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000067-003",
+    "loan_id": "LOAN-2026-000067",
+    "installment_number": 3,
+    "due_date": "2027-01-23",
+    "scheduled_amount": 139510.01,
+    "paid_amount": 0.0,
+    "outstanding_amount": 139510.01,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000068-001",
+    "loan_id": "LOAN-2026-000068",
+    "installment_number": 1,
+    "due_date": "2026-02-28",
+    "scheduled_amount": 119109.73,
+    "paid_amount": 61734.37,
+    "outstanding_amount": 57375.36,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000068-002",
+    "loan_id": "LOAN-2026-000068",
+    "installment_number": 2,
+    "due_date": "2026-06-28",
+    "scheduled_amount": 119109.73,
+    "paid_amount": 119109.73,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000068-003",
+    "loan_id": "LOAN-2026-000068",
+    "installment_number": 3,
+    "due_date": "2026-10-28",
+    "scheduled_amount": 119109.73,
+    "paid_amount": 0.0,
+    "outstanding_amount": 119109.73,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000069-001",
+    "loan_id": "LOAN-2026-000069",
+    "installment_number": 1,
+    "due_date": "2026-04-02",
+    "scheduled_amount": 90272.89,
+    "paid_amount": 90272.89,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000069-002",
+    "loan_id": "LOAN-2026-000069",
+    "installment_number": 2,
+    "due_date": "2026-08-02",
+    "scheduled_amount": 90272.89,
+    "paid_amount": 67605.77,
+    "outstanding_amount": 22667.12,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000069-003",
+    "loan_id": "LOAN-2026-000069",
+    "installment_number": 3,
+    "due_date": "2026-12-02",
+    "scheduled_amount": 90272.89,
+    "paid_amount": 0.0,
+    "outstanding_amount": 90272.89,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000070-001",
+    "loan_id": "LOAN-2026-000070",
+    "installment_number": 1,
+    "due_date": "2025-12-09",
+    "scheduled_amount": 123284.53,
+    "paid_amount": 123284.53,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000070-002",
+    "loan_id": "LOAN-2026-000070",
+    "installment_number": 2,
+    "due_date": "2026-04-09",
+    "scheduled_amount": 123284.53,
+    "paid_amount": 123284.53,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000070-003",
+    "loan_id": "LOAN-2026-000070",
+    "installment_number": 3,
+    "due_date": "2026-08-09",
+    "scheduled_amount": 123284.53,
+    "paid_amount": 123284.53,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000071-001",
+    "loan_id": "LOAN-2026-000071",
+    "installment_number": 1,
+    "due_date": "2025-12-15",
+    "scheduled_amount": 92330.41,
+    "paid_amount": 92330.41,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000071-002",
+    "loan_id": "LOAN-2026-000071",
+    "installment_number": 2,
+    "due_date": "2026-04-15",
+    "scheduled_amount": 92330.41,
+    "paid_amount": 31850.27,
+    "outstanding_amount": 60480.14,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000071-003",
+    "loan_id": "LOAN-2026-000071",
+    "installment_number": 3,
+    "due_date": "2026-08-15",
+    "scheduled_amount": 92330.41,
+    "paid_amount": 92330.41,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000072-001",
+    "loan_id": "LOAN-2026-000072",
+    "installment_number": 1,
+    "due_date": "2026-04-05",
+    "scheduled_amount": 134586.86,
+    "paid_amount": 0.0,
+    "outstanding_amount": 134586.86,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000072-002",
+    "loan_id": "LOAN-2026-000072",
+    "installment_number": 2,
+    "due_date": "2026-08-05",
+    "scheduled_amount": 134586.86,
+    "paid_amount": 134586.86,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000072-003",
+    "loan_id": "LOAN-2026-000072",
+    "installment_number": 3,
+    "due_date": "2026-12-05",
+    "scheduled_amount": 134586.86,
+    "paid_amount": 0.0,
+    "outstanding_amount": 134586.86,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000073-001",
+    "loan_id": "LOAN-2026-000073",
+    "installment_number": 1,
+    "due_date": "2026-01-14",
+    "scheduled_amount": 71149.95,
+    "paid_amount": 0.0,
+    "outstanding_amount": 71149.95,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000073-002",
+    "loan_id": "LOAN-2026-000073",
+    "installment_number": 2,
+    "due_date": "2026-05-14",
+    "scheduled_amount": 71149.95,
+    "paid_amount": 71149.95,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000073-003",
+    "loan_id": "LOAN-2026-000073",
+    "installment_number": 3,
+    "due_date": "2026-09-14",
+    "scheduled_amount": 71149.95,
+    "paid_amount": 20586.53,
+    "outstanding_amount": 50563.42,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000074-001",
+    "loan_id": "LOAN-2026-000074",
+    "installment_number": 1,
+    "due_date": "2026-03-04",
+    "scheduled_amount": 37473.75,
+    "paid_amount": 0.0,
+    "outstanding_amount": 37473.75,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000074-002",
+    "loan_id": "LOAN-2026-000074",
+    "installment_number": 2,
+    "due_date": "2026-07-04",
+    "scheduled_amount": 37473.75,
+    "paid_amount": 0.0,
+    "outstanding_amount": 37473.75,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000074-003",
+    "loan_id": "LOAN-2026-000074",
+    "installment_number": 3,
+    "due_date": "2026-11-04",
+    "scheduled_amount": 37473.75,
+    "paid_amount": 0.0,
+    "outstanding_amount": 37473.75,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000075-001",
+    "loan_id": "LOAN-2026-000075",
+    "installment_number": 1,
+    "due_date": "2026-04-24",
+    "scheduled_amount": 149274.5,
+    "paid_amount": 0.0,
+    "outstanding_amount": 149274.5,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000075-002",
+    "loan_id": "LOAN-2026-000075",
+    "installment_number": 2,
+    "due_date": "2026-08-24",
+    "scheduled_amount": 149274.5,
+    "paid_amount": 0.0,
+    "outstanding_amount": 149274.5,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000075-003",
+    "loan_id": "LOAN-2026-000075",
+    "installment_number": 3,
+    "due_date": "2026-12-24",
+    "scheduled_amount": 149274.5,
+    "paid_amount": 0.0,
+    "outstanding_amount": 149274.5,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000076-001",
+    "loan_id": "LOAN-2026-000076",
+    "installment_number": 1,
+    "due_date": "2026-05-03",
+    "scheduled_amount": 27101.69,
+    "paid_amount": 5515.46,
+    "outstanding_amount": 21586.23,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000076-002",
+    "loan_id": "LOAN-2026-000076",
+    "installment_number": 2,
+    "due_date": "2026-09-03",
+    "scheduled_amount": 27101.69,
+    "paid_amount": 27101.69,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000076-003",
+    "loan_id": "LOAN-2026-000076",
+    "installment_number": 3,
+    "due_date": "2027-01-03",
+    "scheduled_amount": 27101.69,
+    "paid_amount": 0.0,
+    "outstanding_amount": 27101.69,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000077-001",
+    "loan_id": "LOAN-2026-000077",
+    "installment_number": 1,
+    "due_date": "2026-03-10",
+    "scheduled_amount": 167812.67,
+    "paid_amount": 167812.67,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000077-002",
+    "loan_id": "LOAN-2026-000077",
+    "installment_number": 2,
+    "due_date": "2026-07-10",
+    "scheduled_amount": 167812.67,
+    "paid_amount": 0.0,
+    "outstanding_amount": 167812.67,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000077-003",
+    "loan_id": "LOAN-2026-000077",
+    "installment_number": 3,
+    "due_date": "2026-11-10",
+    "scheduled_amount": 167812.67,
+    "paid_amount": 0.0,
+    "outstanding_amount": 167812.67,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000078-001",
+    "loan_id": "LOAN-2026-000078",
+    "installment_number": 1,
+    "due_date": "2026-08-06",
+    "scheduled_amount": 76635.0,
+    "paid_amount": 76635.0,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000078-002",
+    "loan_id": "LOAN-2026-000078",
+    "installment_number": 2,
+    "due_date": "2026-12-06",
+    "scheduled_amount": 76635.0,
+    "paid_amount": 0.0,
+    "outstanding_amount": 76635.0,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000078-003",
+    "loan_id": "LOAN-2026-000078",
+    "installment_number": 3,
+    "due_date": "2027-04-06",
+    "scheduled_amount": 76635.0,
+    "paid_amount": 0.0,
+    "outstanding_amount": 76635.0,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000079-001",
+    "loan_id": "LOAN-2026-000079",
+    "installment_number": 1,
+    "due_date": "2026-07-22",
+    "scheduled_amount": 48366.75,
+    "paid_amount": 48366.75,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000079-002",
+    "loan_id": "LOAN-2026-000079",
+    "installment_number": 2,
+    "due_date": "2026-11-22",
+    "scheduled_amount": 48366.75,
+    "paid_amount": 0.0,
+    "outstanding_amount": 48366.75,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000079-003",
+    "loan_id": "LOAN-2026-000079",
+    "installment_number": 3,
+    "due_date": "2027-03-22",
+    "scheduled_amount": 48366.75,
+    "paid_amount": 0.0,
+    "outstanding_amount": 48366.75,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000080-001",
+    "loan_id": "LOAN-2026-000080",
+    "installment_number": 1,
+    "due_date": "2026-02-06",
+    "scheduled_amount": 168693.58,
+    "paid_amount": 68754.51,
+    "outstanding_amount": 99939.07,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000080-002",
+    "loan_id": "LOAN-2026-000080",
+    "installment_number": 2,
+    "due_date": "2026-06-06",
+    "scheduled_amount": 168693.58,
+    "paid_amount": 168693.58,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000080-003",
+    "loan_id": "LOAN-2026-000080",
+    "installment_number": 3,
+    "due_date": "2026-10-06",
+    "scheduled_amount": 168693.58,
+    "paid_amount": 0.0,
+    "outstanding_amount": 168693.58,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000081-001",
+    "loan_id": "LOAN-2026-000081",
+    "installment_number": 1,
+    "due_date": "2026-04-30",
+    "scheduled_amount": 154519.94,
+    "paid_amount": 154519.94,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000081-002",
+    "loan_id": "LOAN-2026-000081",
+    "installment_number": 2,
+    "due_date": "2026-08-30",
+    "scheduled_amount": 154519.94,
+    "paid_amount": 65418.09,
+    "outstanding_amount": 89101.85,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000081-003",
+    "loan_id": "LOAN-2026-000081",
+    "installment_number": 3,
+    "due_date": "2026-12-30",
+    "scheduled_amount": 154519.94,
+    "paid_amount": 0.0,
+    "outstanding_amount": 154519.94,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000082-001",
+    "loan_id": "LOAN-2026-000082",
+    "installment_number": 1,
+    "due_date": "2026-10-14",
+    "scheduled_amount": 74697.22,
+    "paid_amount": 74697.22,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000082-002",
+    "loan_id": "LOAN-2026-000082",
+    "installment_number": 2,
+    "due_date": "2027-02-14",
+    "scheduled_amount": 74697.22,
+    "paid_amount": 0.0,
+    "outstanding_amount": 74697.22,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000082-003",
+    "loan_id": "LOAN-2026-000082",
+    "installment_number": 3,
+    "due_date": "2027-06-14",
+    "scheduled_amount": 74697.22,
+    "paid_amount": 0.0,
+    "outstanding_amount": 74697.22,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000083-001",
+    "loan_id": "LOAN-2026-000083",
+    "installment_number": 1,
+    "due_date": "2026-09-15",
+    "scheduled_amount": 73581.78,
+    "paid_amount": 73581.78,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000083-002",
+    "loan_id": "LOAN-2026-000083",
+    "installment_number": 2,
+    "due_date": "2027-01-15",
+    "scheduled_amount": 73581.78,
+    "paid_amount": 0.0,
+    "outstanding_amount": 73581.78,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000083-003",
+    "loan_id": "LOAN-2026-000083",
+    "installment_number": 3,
+    "due_date": "2027-05-15",
+    "scheduled_amount": 73581.78,
+    "paid_amount": 0.0,
+    "outstanding_amount": 73581.78,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000084-001",
+    "loan_id": "LOAN-2026-000084",
+    "installment_number": 1,
+    "due_date": "2026-02-25",
+    "scheduled_amount": 154278.29,
+    "paid_amount": 34532.1,
+    "outstanding_amount": 119746.19,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000084-002",
+    "loan_id": "LOAN-2026-000084",
+    "installment_number": 2,
+    "due_date": "2026-06-25",
+    "scheduled_amount": 154278.29,
+    "paid_amount": 154278.29,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000084-003",
+    "loan_id": "LOAN-2026-000084",
+    "installment_number": 3,
+    "due_date": "2026-10-25",
+    "scheduled_amount": 154278.29,
+    "paid_amount": 0.0,
+    "outstanding_amount": 154278.29,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000085-001",
+    "loan_id": "LOAN-2026-000085",
+    "installment_number": 1,
+    "due_date": "2026-09-12",
+    "scheduled_amount": 141099.91,
+    "paid_amount": 141099.91,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000085-002",
+    "loan_id": "LOAN-2026-000085",
+    "installment_number": 2,
+    "due_date": "2027-01-12",
+    "scheduled_amount": 141099.91,
+    "paid_amount": 0.0,
+    "outstanding_amount": 141099.91,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000085-003",
+    "loan_id": "LOAN-2026-000085",
+    "installment_number": 3,
+    "due_date": "2027-05-12",
+    "scheduled_amount": 141099.91,
+    "paid_amount": 0.0,
+    "outstanding_amount": 141099.91,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000086-001",
+    "loan_id": "LOAN-2026-000086",
+    "installment_number": 1,
+    "due_date": "2026-04-24",
+    "scheduled_amount": 62162.94,
+    "paid_amount": 13659.73,
+    "outstanding_amount": 48503.21,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000086-002",
+    "loan_id": "LOAN-2026-000086",
+    "installment_number": 2,
+    "due_date": "2026-08-24",
+    "scheduled_amount": 62162.94,
+    "paid_amount": 52280.78,
+    "outstanding_amount": 9882.16,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000086-003",
+    "loan_id": "LOAN-2026-000086",
+    "installment_number": 3,
+    "due_date": "2026-12-24",
+    "scheduled_amount": 62162.94,
+    "paid_amount": 0.0,
+    "outstanding_amount": 62162.94,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000087-001",
+    "loan_id": "LOAN-2026-000087",
+    "installment_number": 1,
+    "due_date": "2025-12-02",
+    "scheduled_amount": 159894.55,
+    "paid_amount": 159894.55,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000087-002",
+    "loan_id": "LOAN-2026-000087",
+    "installment_number": 2,
+    "due_date": "2026-04-02",
+    "scheduled_amount": 159894.55,
+    "paid_amount": 159894.55,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000087-003",
+    "loan_id": "LOAN-2026-000087",
+    "installment_number": 3,
+    "due_date": "2026-08-02",
+    "scheduled_amount": 159894.55,
+    "paid_amount": 159894.55,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000088-001",
+    "loan_id": "LOAN-2026-000088",
+    "installment_number": 1,
+    "due_date": "2026-05-02",
+    "scheduled_amount": 85709.15,
+    "paid_amount": 85709.15,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000088-002",
+    "loan_id": "LOAN-2026-000088",
+    "installment_number": 2,
+    "due_date": "2026-09-02",
+    "scheduled_amount": 85709.15,
+    "paid_amount": 0.0,
+    "outstanding_amount": 85709.15,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000088-003",
+    "loan_id": "LOAN-2026-000088",
+    "installment_number": 3,
+    "due_date": "2027-01-02",
+    "scheduled_amount": 85709.15,
+    "paid_amount": 0.0,
+    "outstanding_amount": 85709.15,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000089-001",
+    "loan_id": "LOAN-2026-000089",
+    "installment_number": 1,
+    "due_date": "2026-07-02",
+    "scheduled_amount": 51241.8,
+    "paid_amount": 51241.8,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000089-002",
+    "loan_id": "LOAN-2026-000089",
+    "installment_number": 2,
+    "due_date": "2026-11-02",
+    "scheduled_amount": 51241.8,
+    "paid_amount": 0.0,
+    "outstanding_amount": 51241.8,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000089-003",
+    "loan_id": "LOAN-2026-000089",
+    "installment_number": 3,
+    "due_date": "2027-03-02",
+    "scheduled_amount": 51241.8,
+    "paid_amount": 0.0,
+    "outstanding_amount": 51241.8,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000090-001",
+    "loan_id": "LOAN-2026-000090",
+    "installment_number": 1,
+    "due_date": "2026-09-22",
+    "scheduled_amount": 26155.72,
+    "paid_amount": 18249.99,
+    "outstanding_amount": 7905.73,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000090-002",
+    "loan_id": "LOAN-2026-000090",
+    "installment_number": 2,
+    "due_date": "2027-01-22",
+    "scheduled_amount": 26155.72,
+    "paid_amount": 0.0,
+    "outstanding_amount": 26155.72,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000090-003",
+    "loan_id": "LOAN-2026-000090",
+    "installment_number": 3,
+    "due_date": "2027-05-22",
+    "scheduled_amount": 26155.72,
+    "paid_amount": 0.0,
+    "outstanding_amount": 26155.72,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000091-001",
+    "loan_id": "LOAN-2026-000091",
+    "installment_number": 1,
+    "due_date": "2026-02-15",
+    "scheduled_amount": 78951.97,
+    "paid_amount": 0.0,
+    "outstanding_amount": 78951.97,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000091-002",
+    "loan_id": "LOAN-2026-000091",
+    "installment_number": 2,
+    "due_date": "2026-06-15",
+    "scheduled_amount": 78951.97,
+    "paid_amount": 0.0,
+    "outstanding_amount": 78951.97,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000091-003",
+    "loan_id": "LOAN-2026-000091",
+    "installment_number": 3,
+    "due_date": "2026-10-15",
+    "scheduled_amount": 78951.97,
+    "paid_amount": 0.0,
+    "outstanding_amount": 78951.97,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000092-001",
+    "loan_id": "LOAN-2026-000092",
+    "installment_number": 1,
+    "due_date": "2026-02-08",
+    "scheduled_amount": 36991.13,
+    "paid_amount": 24320.26,
+    "outstanding_amount": 12670.87,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000092-002",
+    "loan_id": "LOAN-2026-000092",
+    "installment_number": 2,
+    "due_date": "2026-06-08",
+    "scheduled_amount": 36991.13,
+    "paid_amount": 0.0,
+    "outstanding_amount": 36991.13,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000092-003",
+    "loan_id": "LOAN-2026-000092",
+    "installment_number": 3,
+    "due_date": "2026-10-08",
+    "scheduled_amount": 36991.13,
+    "paid_amount": 36991.13,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000093-001",
+    "loan_id": "LOAN-2026-000093",
+    "installment_number": 1,
+    "due_date": "2026-09-14",
+    "scheduled_amount": 12221.61,
+    "paid_amount": 0.0,
+    "outstanding_amount": 12221.61,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000093-002",
+    "loan_id": "LOAN-2026-000093",
+    "installment_number": 2,
+    "due_date": "2027-01-14",
+    "scheduled_amount": 12221.61,
+    "paid_amount": 0.0,
+    "outstanding_amount": 12221.61,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000093-003",
+    "loan_id": "LOAN-2026-000093",
+    "installment_number": 3,
+    "due_date": "2027-05-14",
+    "scheduled_amount": 12221.61,
+    "paid_amount": 0.0,
+    "outstanding_amount": 12221.61,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000094-001",
+    "loan_id": "LOAN-2026-000094",
+    "installment_number": 1,
+    "due_date": "2026-07-11",
+    "scheduled_amount": 64342.11,
+    "paid_amount": 0.0,
+    "outstanding_amount": 64342.11,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000094-002",
+    "loan_id": "LOAN-2026-000094",
+    "installment_number": 2,
+    "due_date": "2026-11-11",
+    "scheduled_amount": 64342.11,
+    "paid_amount": 0.0,
+    "outstanding_amount": 64342.11,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000094-003",
+    "loan_id": "LOAN-2026-000094",
+    "installment_number": 3,
+    "due_date": "2027-03-11",
+    "scheduled_amount": 64342.11,
+    "paid_amount": 0.0,
+    "outstanding_amount": 64342.11,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000095-001",
+    "loan_id": "LOAN-2026-000095",
+    "installment_number": 1,
+    "due_date": "2025-12-16",
+    "scheduled_amount": 100450.46,
+    "paid_amount": 0.0,
+    "outstanding_amount": 100450.46,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000095-002",
+    "loan_id": "LOAN-2026-000095",
+    "installment_number": 2,
+    "due_date": "2026-04-16",
+    "scheduled_amount": 100450.46,
+    "paid_amount": 0.0,
+    "outstanding_amount": 100450.46,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000095-003",
+    "loan_id": "LOAN-2026-000095",
+    "installment_number": 3,
+    "due_date": "2026-08-16",
+    "scheduled_amount": 100450.46,
+    "paid_amount": 100450.46,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000096-001",
+    "loan_id": "LOAN-2026-000096",
+    "installment_number": 1,
+    "due_date": "2025-12-03",
+    "scheduled_amount": 18331.7,
+    "paid_amount": 18331.7,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000096-002",
+    "loan_id": "LOAN-2026-000096",
+    "installment_number": 2,
+    "due_date": "2026-04-03",
+    "scheduled_amount": 18331.7,
+    "paid_amount": 0.0,
+    "outstanding_amount": 18331.7,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000096-003",
+    "loan_id": "LOAN-2026-000096",
+    "installment_number": 3,
+    "due_date": "2026-08-03",
+    "scheduled_amount": 18331.7,
+    "paid_amount": 18331.7,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000097-001",
+    "loan_id": "LOAN-2026-000097",
+    "installment_number": 1,
+    "due_date": "2026-02-28",
+    "scheduled_amount": 95835.23,
+    "paid_amount": 95835.23,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000097-002",
+    "loan_id": "LOAN-2026-000097",
+    "installment_number": 2,
+    "due_date": "2026-06-28",
+    "scheduled_amount": 95835.23,
+    "paid_amount": 95835.23,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000097-003",
+    "loan_id": "LOAN-2026-000097",
+    "installment_number": 3,
+    "due_date": "2026-10-28",
+    "scheduled_amount": 95835.23,
+    "paid_amount": 0.0,
+    "outstanding_amount": 95835.23,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000098-001",
+    "loan_id": "LOAN-2026-000098",
+    "installment_number": 1,
+    "due_date": "2026-04-17",
+    "scheduled_amount": 121580.09,
+    "paid_amount": 0.0,
+    "outstanding_amount": 121580.09,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000098-002",
+    "loan_id": "LOAN-2026-000098",
+    "installment_number": 2,
+    "due_date": "2026-08-17",
+    "scheduled_amount": 121580.09,
+    "paid_amount": 121580.09,
+    "outstanding_amount": 0.0,
+    "installment_status": "paid"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000098-003",
+    "loan_id": "LOAN-2026-000098",
+    "installment_number": 3,
+    "due_date": "2026-12-17",
+    "scheduled_amount": 121580.09,
+    "paid_amount": 0.0,
+    "outstanding_amount": 121580.09,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000099-001",
+    "loan_id": "LOAN-2026-000099",
+    "installment_number": 1,
+    "due_date": "2026-10-29",
+    "scheduled_amount": 9043.81,
+    "paid_amount": 0.0,
+    "outstanding_amount": 9043.81,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000099-002",
+    "loan_id": "LOAN-2026-000099",
+    "installment_number": 2,
+    "due_date": "2027-02-28",
+    "scheduled_amount": 9043.81,
+    "paid_amount": 0.0,
+    "outstanding_amount": 9043.81,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000099-003",
+    "loan_id": "LOAN-2026-000099",
+    "installment_number": 3,
+    "due_date": "2027-06-29",
+    "scheduled_amount": 9043.81,
+    "paid_amount": 0.0,
+    "outstanding_amount": 9043.81,
+    "installment_status": "upcoming"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000100-001",
+    "loan_id": "LOAN-2026-000100",
+    "installment_number": 1,
+    "due_date": "2026-05-28",
+    "scheduled_amount": 159378.68,
+    "paid_amount": 0.0,
+    "outstanding_amount": 159378.68,
+    "installment_status": "overdue"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000100-002",
+    "loan_id": "LOAN-2026-000100",
+    "installment_number": 2,
+    "due_date": "2026-09-28",
+    "scheduled_amount": 159378.68,
+    "paid_amount": 53449.05,
+    "outstanding_amount": 105929.63,
+    "installment_status": "partial"
+  },
+  {
+    "installment_id": "INS-LOAN-2026-000100-003",
+    "loan_id": "LOAN-2026-000100",
+    "installment_number": 3,
+    "due_date": "2027-01-28",
+    "scheduled_amount": 159378.68,
+    "paid_amount": 0.0,
+    "outstanding_amount": 159378.68,
+    "installment_status": "upcoming"
+  }
+]

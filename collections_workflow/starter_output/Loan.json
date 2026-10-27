@@ -1,0 +1,1002 @@
+[
+  {
+    "loan_id": "LOAN-2026-000001",
+    "account_id": "ACC-2026-000001",
+    "principal_amount": 207951.98,
+    "annual_interest_rate": 15.45,
+    "term_months": 3,
+    "origination_date": "2025-10-26",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000002",
+    "account_id": "ACC-2026-000002",
+    "principal_amount": 359429.4,
+    "annual_interest_rate": 14.0,
+    "term_months": 3,
+    "origination_date": "2026-05-11",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000003",
+    "account_id": "ACC-2026-000003",
+    "principal_amount": 149562.55,
+    "annual_interest_rate": 10.29,
+    "term_months": 3,
+    "origination_date": "2026-03-08",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000004",
+    "account_id": "ACC-2026-000004",
+    "principal_amount": 289396.9,
+    "annual_interest_rate": 19.48,
+    "term_months": 3,
+    "origination_date": "2026-07-06",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000005",
+    "account_id": "ACC-2026-000005",
+    "principal_amount": 100516.59,
+    "annual_interest_rate": 21.57,
+    "term_months": 3,
+    "origination_date": "2026-02-03",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000006",
+    "account_id": "ACC-2026-000006",
+    "principal_amount": 175307.33,
+    "annual_interest_rate": 13.2,
+    "term_months": 3,
+    "origination_date": "2025-08-22",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000007",
+    "account_id": "ACC-2026-000007",
+    "principal_amount": 281024.29,
+    "annual_interest_rate": 15.6,
+    "term_months": 3,
+    "origination_date": "2026-01-22",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000008",
+    "account_id": "ACC-2026-000008",
+    "principal_amount": 150801.88,
+    "annual_interest_rate": 5.47,
+    "term_months": 3,
+    "origination_date": "2026-07-14",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000009",
+    "account_id": "ACC-2026-000009",
+    "principal_amount": 30781.93,
+    "annual_interest_rate": 21.31,
+    "term_months": 3,
+    "origination_date": "2025-09-07",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000010",
+    "account_id": "ACC-2026-000010",
+    "principal_amount": 334526.93,
+    "annual_interest_rate": 7.6,
+    "term_months": 3,
+    "origination_date": "2026-07-07",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000011",
+    "account_id": "ACC-2026-000011",
+    "principal_amount": 84213.77,
+    "annual_interest_rate": 13.0,
+    "term_months": 3,
+    "origination_date": "2026-07-03",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000012",
+    "account_id": "ACC-2026-000012",
+    "principal_amount": 360070.55,
+    "annual_interest_rate": 6.15,
+    "term_months": 3,
+    "origination_date": "2025-09-02",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000013",
+    "account_id": "ACC-2026-000013",
+    "principal_amount": 441844.23,
+    "annual_interest_rate": 17.78,
+    "term_months": 3,
+    "origination_date": "2026-05-24",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000014",
+    "account_id": "ACC-2026-000014",
+    "principal_amount": 347669.0,
+    "annual_interest_rate": 8.59,
+    "term_months": 3,
+    "origination_date": "2026-06-18",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000015",
+    "account_id": "ACC-2026-000015",
+    "principal_amount": 131042.69,
+    "annual_interest_rate": 9.63,
+    "term_months": 3,
+    "origination_date": "2026-01-23",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000016",
+    "account_id": "ACC-2026-000016",
+    "principal_amount": 384946.03,
+    "annual_interest_rate": 8.17,
+    "term_months": 3,
+    "origination_date": "2026-03-26",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000017",
+    "account_id": "ACC-2026-000017",
+    "principal_amount": 243571.12,
+    "annual_interest_rate": 8.28,
+    "term_months": 3,
+    "origination_date": "2026-06-16",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000018",
+    "account_id": "ACC-2026-000018",
+    "principal_amount": 119998.14,
+    "annual_interest_rate": 13.99,
+    "term_months": 3,
+    "origination_date": "2026-04-15",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000019",
+    "account_id": "ACC-2026-000019",
+    "principal_amount": 177275.18,
+    "annual_interest_rate": 18.27,
+    "term_months": 3,
+    "origination_date": "2025-10-09",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000020",
+    "account_id": "ACC-2026-000020",
+    "principal_amount": 105349.32,
+    "annual_interest_rate": 5.07,
+    "term_months": 3,
+    "origination_date": "2026-04-06",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000021",
+    "account_id": "ACC-2026-000021",
+    "principal_amount": 413006.83,
+    "annual_interest_rate": 14.23,
+    "term_months": 3,
+    "origination_date": "2026-04-18",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000022",
+    "account_id": "ACC-2026-000022",
+    "principal_amount": 416258.81,
+    "annual_interest_rate": 20.49,
+    "term_months": 3,
+    "origination_date": "2025-09-02",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000023",
+    "account_id": "ACC-2026-000023",
+    "principal_amount": 484390.96,
+    "annual_interest_rate": 21.59,
+    "term_months": 3,
+    "origination_date": "2026-06-14",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000024",
+    "account_id": "ACC-2026-000024",
+    "principal_amount": 290178.87,
+    "annual_interest_rate": 16.43,
+    "term_months": 3,
+    "origination_date": "2026-04-05",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000025",
+    "account_id": "ACC-2026-000025",
+    "principal_amount": 388572.58,
+    "annual_interest_rate": 16.88,
+    "term_months": 3,
+    "origination_date": "2026-01-01",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000026",
+    "account_id": "ACC-2026-000026",
+    "principal_amount": 115157.63,
+    "annual_interest_rate": 19.24,
+    "term_months": 3,
+    "origination_date": "2025-11-09",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000027",
+    "account_id": "ACC-2026-000027",
+    "principal_amount": 364079.64,
+    "annual_interest_rate": 13.51,
+    "term_months": 3,
+    "origination_date": "2025-08-04",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000028",
+    "account_id": "ACC-2026-000028",
+    "principal_amount": 77832.25,
+    "annual_interest_rate": 16.79,
+    "term_months": 3,
+    "origination_date": "2025-10-05",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000029",
+    "account_id": "ACC-2026-000029",
+    "principal_amount": 375622.9,
+    "annual_interest_rate": 18.88,
+    "term_months": 3,
+    "origination_date": "2026-05-07",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000030",
+    "account_id": "ACC-2026-000030",
+    "principal_amount": 426736.6,
+    "annual_interest_rate": 16.54,
+    "term_months": 3,
+    "origination_date": "2026-03-31",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000031",
+    "account_id": "ACC-2026-000031",
+    "principal_amount": 111007.09,
+    "annual_interest_rate": 14.09,
+    "term_months": 3,
+    "origination_date": "2025-10-24",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000032",
+    "account_id": "ACC-2026-000032",
+    "principal_amount": 245902.51,
+    "annual_interest_rate": 12.5,
+    "term_months": 3,
+    "origination_date": "2025-12-07",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000033",
+    "account_id": "ACC-2026-000033",
+    "principal_amount": 56168.52,
+    "annual_interest_rate": 19.84,
+    "term_months": 3,
+    "origination_date": "2026-06-23",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000034",
+    "account_id": "ACC-2026-000034",
+    "principal_amount": 125126.65,
+    "annual_interest_rate": 17.1,
+    "term_months": 3,
+    "origination_date": "2026-07-13",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000035",
+    "account_id": "ACC-2026-000035",
+    "principal_amount": 462624.97,
+    "annual_interest_rate": 14.09,
+    "term_months": 3,
+    "origination_date": "2025-09-11",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000036",
+    "account_id": "ACC-2026-000036",
+    "principal_amount": 75745.65,
+    "annual_interest_rate": 7.76,
+    "term_months": 3,
+    "origination_date": "2026-01-20",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000037",
+    "account_id": "ACC-2026-000037",
+    "principal_amount": 263100.67,
+    "annual_interest_rate": 23.49,
+    "term_months": 3,
+    "origination_date": "2025-08-14",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000038",
+    "account_id": "ACC-2026-000038",
+    "principal_amount": 322148.04,
+    "annual_interest_rate": 7.82,
+    "term_months": 3,
+    "origination_date": "2025-12-25",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000039",
+    "account_id": "ACC-2026-000039",
+    "principal_amount": 367877.59,
+    "annual_interest_rate": 9.56,
+    "term_months": 3,
+    "origination_date": "2026-04-12",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000040",
+    "account_id": "ACC-2026-000040",
+    "principal_amount": 244201.39,
+    "annual_interest_rate": 21.33,
+    "term_months": 3,
+    "origination_date": "2025-08-20",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000041",
+    "account_id": "ACC-2026-000041",
+    "principal_amount": 217492.9,
+    "annual_interest_rate": 22.42,
+    "term_months": 3,
+    "origination_date": "2025-10-18",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000042",
+    "account_id": "ACC-2026-000042",
+    "principal_amount": 261952.58,
+    "annual_interest_rate": 20.81,
+    "term_months": 3,
+    "origination_date": "2025-11-19",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000043",
+    "account_id": "ACC-2026-000043",
+    "principal_amount": 279215.33,
+    "annual_interest_rate": 21.19,
+    "term_months": 3,
+    "origination_date": "2026-04-29",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000044",
+    "account_id": "ACC-2026-000044",
+    "principal_amount": 352124.68,
+    "annual_interest_rate": 13.3,
+    "term_months": 3,
+    "origination_date": "2025-12-24",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000045",
+    "account_id": "ACC-2026-000045",
+    "principal_amount": 386458.07,
+    "annual_interest_rate": 14.92,
+    "term_months": 3,
+    "origination_date": "2026-02-11",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000046",
+    "account_id": "ACC-2026-000046",
+    "principal_amount": 344514.61,
+    "annual_interest_rate": 6.06,
+    "term_months": 3,
+    "origination_date": "2025-08-15",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000047",
+    "account_id": "ACC-2026-000047",
+    "principal_amount": 33933.43,
+    "annual_interest_rate": 17.21,
+    "term_months": 3,
+    "origination_date": "2025-10-12",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000048",
+    "account_id": "ACC-2026-000048",
+    "principal_amount": 51929.35,
+    "annual_interest_rate": 21.45,
+    "term_months": 3,
+    "origination_date": "2025-09-21",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000049",
+    "account_id": "ACC-2026-000049",
+    "principal_amount": 314561.97,
+    "annual_interest_rate": 6.36,
+    "term_months": 3,
+    "origination_date": "2026-03-15",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000050",
+    "account_id": "ACC-2026-000050",
+    "principal_amount": 223022.44,
+    "annual_interest_rate": 6.65,
+    "term_months": 3,
+    "origination_date": "2025-09-17",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000051",
+    "account_id": "ACC-2026-000051",
+    "principal_amount": 126384.46,
+    "annual_interest_rate": 17.11,
+    "term_months": 3,
+    "origination_date": "2026-05-06",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000052",
+    "account_id": "ACC-2026-000052",
+    "principal_amount": 294518.56,
+    "annual_interest_rate": 18.47,
+    "term_months": 3,
+    "origination_date": "2026-05-09",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000053",
+    "account_id": "ACC-2026-000053",
+    "principal_amount": 226029.6,
+    "annual_interest_rate": 15.62,
+    "term_months": 3,
+    "origination_date": "2026-03-15",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000054",
+    "account_id": "ACC-2026-000054",
+    "principal_amount": 350118.69,
+    "annual_interest_rate": 20.74,
+    "term_months": 3,
+    "origination_date": "2025-11-04",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000055",
+    "account_id": "ACC-2026-000055",
+    "principal_amount": 302754.78,
+    "annual_interest_rate": 22.31,
+    "term_months": 3,
+    "origination_date": "2026-02-28",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000056",
+    "account_id": "ACC-2026-000056",
+    "principal_amount": 285337.2,
+    "annual_interest_rate": 17.11,
+    "term_months": 3,
+    "origination_date": "2025-10-03",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000057",
+    "account_id": "ACC-2026-000057",
+    "principal_amount": 393306.8,
+    "annual_interest_rate": 11.44,
+    "term_months": 3,
+    "origination_date": "2025-08-07",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000058",
+    "account_id": "ACC-2026-000058",
+    "principal_amount": 338074.8,
+    "annual_interest_rate": 18.61,
+    "term_months": 3,
+    "origination_date": "2026-03-29",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000059",
+    "account_id": "ACC-2026-000059",
+    "principal_amount": 260227.46,
+    "annual_interest_rate": 22.52,
+    "term_months": 3,
+    "origination_date": "2026-01-18",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000060",
+    "account_id": "ACC-2026-000060",
+    "principal_amount": 247379.51,
+    "annual_interest_rate": 18.51,
+    "term_months": 3,
+    "origination_date": "2026-05-18",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000061",
+    "account_id": "ACC-2026-000061",
+    "principal_amount": 179913.49,
+    "annual_interest_rate": 21.7,
+    "term_months": 3,
+    "origination_date": "2026-02-07",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000062",
+    "account_id": "ACC-2026-000062",
+    "principal_amount": 139822.1,
+    "annual_interest_rate": 22.26,
+    "term_months": 3,
+    "origination_date": "2026-04-24",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000063",
+    "account_id": "ACC-2026-000063",
+    "principal_amount": 41961.77,
+    "annual_interest_rate": 14.72,
+    "term_months": 3,
+    "origination_date": "2026-07-07",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000064",
+    "account_id": "ACC-2026-000064",
+    "principal_amount": 214612.46,
+    "annual_interest_rate": 20.16,
+    "term_months": 3,
+    "origination_date": "2026-02-19",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000065",
+    "account_id": "ACC-2026-000065",
+    "principal_amount": 436334.96,
+    "annual_interest_rate": 23.6,
+    "term_months": 3,
+    "origination_date": "2026-05-09",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000066",
+    "account_id": "ACC-2026-000066",
+    "principal_amount": 446142.38,
+    "annual_interest_rate": 23.45,
+    "term_months": 3,
+    "origination_date": "2026-06-28",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000067",
+    "account_id": "ACC-2026-000067",
+    "principal_amount": 399923.59,
+    "annual_interest_rate": 18.61,
+    "term_months": 3,
+    "origination_date": "2026-01-23",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000068",
+    "account_id": "ACC-2026-000068",
+    "principal_amount": 349945.35,
+    "annual_interest_rate": 8.44,
+    "term_months": 3,
+    "origination_date": "2025-10-28",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000069",
+    "account_id": "ACC-2026-000069",
+    "principal_amount": 265118.61,
+    "annual_interest_rate": 8.6,
+    "term_months": 3,
+    "origination_date": "2025-12-02",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000070",
+    "account_id": "ACC-2026-000070",
+    "principal_amount": 360533.79,
+    "annual_interest_rate": 10.34,
+    "term_months": 3,
+    "origination_date": "2025-08-09",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000071",
+    "account_id": "ACC-2026-000071",
+    "principal_amount": 272167.08,
+    "annual_interest_rate": 7.09,
+    "term_months": 3,
+    "origination_date": "2025-08-15",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000072",
+    "account_id": "ACC-2026-000072",
+    "principal_amount": 382385.25,
+    "annual_interest_rate": 22.36,
+    "term_months": 3,
+    "origination_date": "2025-12-05",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000073",
+    "account_id": "ACC-2026-000073",
+    "principal_amount": 206676.05,
+    "annual_interest_rate": 13.11,
+    "term_months": 3,
+    "origination_date": "2025-09-14",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000074",
+    "account_id": "ACC-2026-000074",
+    "principal_amount": 107659.98,
+    "annual_interest_rate": 17.69,
+    "term_months": 3,
+    "origination_date": "2025-11-04",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000075",
+    "account_id": "ACC-2026-000075",
+    "principal_amount": 440630.21,
+    "annual_interest_rate": 6.53,
+    "term_months": 3,
+    "origination_date": "2025-12-24",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000076",
+    "account_id": "ACC-2026-000076",
+    "principal_amount": 78816.43,
+    "annual_interest_rate": 12.63,
+    "term_months": 3,
+    "origination_date": "2026-01-03",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000077",
+    "account_id": "ACC-2026-000077",
+    "principal_amount": 493083.25,
+    "annual_interest_rate": 8.4,
+    "term_months": 3,
+    "origination_date": "2025-11-10",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000078",
+    "account_id": "ACC-2026-000078",
+    "principal_amount": 219799.71,
+    "annual_interest_rate": 18.39,
+    "term_months": 3,
+    "origination_date": "2026-04-06",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000079",
+    "account_id": "ACC-2026-000079",
+    "principal_amount": 137204.16,
+    "annual_interest_rate": 23.02,
+    "term_months": 3,
+    "origination_date": "2026-03-22",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000080",
+    "account_id": "ACC-2026-000080",
+    "principal_amount": 482751.77,
+    "annual_interest_rate": 19.33,
+    "term_months": 3,
+    "origination_date": "2025-10-06",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000081",
+    "account_id": "ACC-2026-000081",
+    "principal_amount": 450736.38,
+    "annual_interest_rate": 11.38,
+    "term_months": 3,
+    "origination_date": "2025-12-30",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000082",
+    "account_id": "ACC-2026-000082",
+    "principal_amount": 218094.06,
+    "annual_interest_rate": 11.0,
+    "term_months": 3,
+    "origination_date": "2026-06-14",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000083",
+    "account_id": "ACC-2026-000083",
+    "principal_amount": 213693.46,
+    "annual_interest_rate": 13.2,
+    "term_months": 3,
+    "origination_date": "2026-05-15",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000084",
+    "account_id": "ACC-2026-000084",
+    "principal_amount": 444349.91,
+    "annual_interest_rate": 16.64,
+    "term_months": 3,
+    "origination_date": "2025-10-25",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000085",
+    "account_id": "ACC-2026-000085",
+    "principal_amount": 414654.18,
+    "annual_interest_rate": 8.34,
+    "term_months": 3,
+    "origination_date": "2026-05-12",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000086",
+    "account_id": "ACC-2026-000086",
+    "principal_amount": 179995.47,
+    "annual_interest_rate": 14.43,
+    "term_months": 3,
+    "origination_date": "2025-12-24",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000087",
+    "account_id": "ACC-2026-000087",
+    "principal_amount": 452595.79,
+    "annual_interest_rate": 23.94,
+    "term_months": 3,
+    "origination_date": "2025-08-02",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000088",
+    "account_id": "ACC-2026-000088",
+    "principal_amount": 245590.81,
+    "annual_interest_rate": 18.79,
+    "term_months": 3,
+    "origination_date": "2026-01-02",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000089",
+    "account_id": "ACC-2026-000089",
+    "principal_amount": 148526.97,
+    "annual_interest_rate": 14.0,
+    "term_months": 3,
+    "origination_date": "2026-03-02",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000090",
+    "account_id": "ACC-2026-000090",
+    "principal_amount": 75273.67,
+    "annual_interest_rate": 16.97,
+    "term_months": 3,
+    "origination_date": "2026-05-22",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000091",
+    "account_id": "ACC-2026-000091",
+    "principal_amount": 226878.9,
+    "annual_interest_rate": 17.59,
+    "term_months": 3,
+    "origination_date": "2025-10-15",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000092",
+    "account_id": "ACC-2026-000092",
+    "principal_amount": 107592.31,
+    "annual_interest_rate": 12.57,
+    "term_months": 3,
+    "origination_date": "2025-10-08",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000093",
+    "account_id": "ACC-2026-000093",
+    "principal_amount": 35401.86,
+    "annual_interest_rate": 14.27,
+    "term_months": 3,
+    "origination_date": "2026-05-14",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000094",
+    "account_id": "ACC-2026-000094",
+    "principal_amount": 182233.55,
+    "annual_interest_rate": 23.69,
+    "term_months": 3,
+    "origination_date": "2026-03-11",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000095",
+    "account_id": "ACC-2026-000095",
+    "principal_amount": 285783.33,
+    "annual_interest_rate": 21.79,
+    "term_months": 3,
+    "origination_date": "2025-08-16",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000096",
+    "account_id": "ACC-2026-000096",
+    "principal_amount": 52163.91,
+    "annual_interest_rate": 21.71,
+    "term_months": 3,
+    "origination_date": "2025-08-03",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000097",
+    "account_id": "ACC-2026-000097",
+    "principal_amount": 277729.6,
+    "annual_interest_rate": 14.08,
+    "term_months": 3,
+    "origination_date": "2025-10-28",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000098",
+    "account_id": "ACC-2026-000098",
+    "principal_amount": 352167.87,
+    "annual_interest_rate": 14.28,
+    "term_months": 3,
+    "origination_date": "2025-12-17",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000099",
+    "account_id": "ACC-2026-000099",
+    "principal_amount": 26621.62,
+    "annual_interest_rate": 7.66,
+    "term_months": 3,
+    "origination_date": "2026-06-29",
+    "loan_status": "active",
+    "currency": "INR"
+  },
+  {
+    "loan_id": "LOAN-2026-000100",
+    "account_id": "ACC-2026-000100",
+    "principal_amount": 467809.16,
+    "annual_interest_rate": 8.83,
+    "term_months": 3,
+    "origination_date": "2026-01-28",
+    "loan_status": "active",
+    "currency": "INR"
+  }
+]
